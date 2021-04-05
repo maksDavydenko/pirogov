@@ -10,7 +10,7 @@
 	Information and contribution at https://typo3.org/
 -->
 
-<!--<base href="http://pirogov-university.com">-->
+<base href="">
 <link rel="shortcut icon" href="/fileadmin/favicon.ico" type="image/x-icon">
 <title>Professionals</title>
 <meta name="generator" content="TYPO3 CMS">
@@ -50,44 +50,44 @@
   <!--RRRRRRRRRRRRRRRRRR-->
 <div class="coverTop BGdark scrinBm">
 <div class="headlineLR" style="border-bottom:1px dotted #aaa;">
-<div style="align-items:stretch;" id="allMenuReplB"><span style="align-items:center;" class="gamburger"><img  src="./fileadmin/templates/img/px.png" alt=""/></span>
+<div style="align-items:stretch;" id="allMenuReplB"><span style="align-items:center;" class="gamburger"><img  src="fileadmin/templates/img/px.png" alt=""/></span>
 </div>
 <div style="flex-direction:row;" class="flex">  
 <!-- F INST-->
-  <!--div class="scrinAlways" style="flex: 0 0 3rem;" id="facebook"><a style="display:flex; align-items:stretch;" href="https://www.facebook.com/Pirogov-Russian-National-Research-Medical-University-452412755317014/?modal=admin_todo_tour"  target="_blank"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div>
-<!--div class="scrinA" style="" id="vk"><a style="display:flex; align-items:stretch;" href="#vk"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div-->
-<!--div class="scrinAlways" style="flex: 0 0 3rem;" id="inst"><a style="display:flex; align-items:stretch;" href="https://www.instagram.com/rnrmu_global/"  target="_blank"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div>
+  <!--div class="scrinAlways" style="flex: 0 0 3rem;" id="facebook"><a style="display:flex; align-items:stretch;" href="https://www.facebook.com/Pirogov-Russian-National-Research-Medical-University-452412755317014/?modal=admin_todo_tour"  target="_blank"><img  src="fileadmin/templates/img/px.png" alt=""/></a></div>
+<!--div class="scrinA" style="" id="vk"><a style="display:flex; align-items:stretch;" href="#vk"><img  src="fileadmin/templates/img/px.png" alt=""/></a></div-->
+<!--div class="scrinAlways" style="flex: 0 0 3rem;" id="inst"><a style="display:flex; align-items:stretch;" href="https://www.instagram.com/rnrmu_global/"  target="_blank"><img  src="fileadmin/templates/img/px.png" alt=""/></a></div>
 <!-- END F INST  -->
  
   </div>
 <!--  -->
 <ul class="menuheadline">
-<li class="scrinAlways"><div><a href="./search.html" id="searchIcon"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div></li>
+<li class="scrinAlways"><div><a href="./search.html" id="searchIcon"><img  src="fileadmin/templates/img/px.png" alt=""/></a></div></li>
 <li class="scrinAlways"><div><a href="#" id="EngRu">Ru</a></div></li>
 </ul>
 </div></div>
 <!--  end coverTop BGdark scrinBm  -->
 <div class="coverTop BGdark">
 <div class="headlineLR">
-<div class="scrinAlways" style="align-items:stretch;"><a href="#logo" id="minLogoW" style="align-items:center;"><img  src="./fileadmin/templates/img/px.png" alt=""/></a><a href="#logo" id="minLogoTitleW">Pirogov Medical University</a></div>
+<div class="scrinAlways" style="align-items:stretch;"><a href="#logo" id="minLogoW" style="align-items:center;"><img  src="fileadmin/templates/img/px.png" alt=""/></a><a href="#logo" id="minLogoTitleW">Pirogov Medical University</a></div>
 <!-- -->
-<!--div class="scrinA" style="" id="facebook"><a style="display:flex; align-items:stretch;" href="https://www.facebook.com/Pirogov-Russian-National-Research-Medical-University-452412755317014/?modal=admin_todo_tour" target="_blank"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div>
-<!--div class="scrinA" style="" id="vk"><a style="display:flex; align-items:stretch;" href="#vk"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div-->
-<!--div class="scrinA" style="" id="inst"><a style="display:flex; align-items:stretch;" href="https://www.instagram.com/rnrmu_global/"  target="_blank"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div-->
+<!--div class="scrinA" style="" id="facebook"><a style="display:flex; align-items:stretch;" href="https://www.facebook.com/Pirogov-Russian-National-Research-Medical-University-452412755317014/?modal=admin_todo_tour" target="_blank"><img  src="fileadmin/templates/img/px.png" alt=""/></a></div>
+<!--div class="scrinA" style="" id="vk"><a style="display:flex; align-items:stretch;" href="#vk"><img  src="fileadmin/templates/img/px.png" alt=""/></a></div-->
+<!--div class="scrinA" style="" id="inst"><a style="display:flex; align-items:stretch;" href="https://www.instagram.com/rnrmu_global/"  target="_blank"><img  src="fileadmin/templates/img/px.png" alt=""/></a></div-->
 <div class="hfill"></div>
 
 <!--div class="scrinBmB">
 <!-- F INST-->
-  <!--div class="scrinAlways" style="" id="facebook"><a style="display:flex; align-items:stretch;" href="https://www.facebook.com/Pirogov-Russian-National-Research-Medical-University-452412755317014/?modal=admin_todo_tour"  target="_blank"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div>
-<!--div class="scrinA" style="" id="vk"><a style="display:flex; align-items:stretch;" href="#vk"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div-->
-<!--div class="scrinAlways" style="" id="inst"><a style="display:flex; align-items:stretch;" href="https://www.instagram.com/rnrmu_global/"  target="_blank"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div>
+  <!--div class="scrinAlways" style="" id="facebook"><a style="display:flex; align-items:stretch;" href="https://www.facebook.com/Pirogov-Russian-National-Research-Medical-University-452412755317014/?modal=admin_todo_tour"  target="_blank"><img  src="fileadmin/templates/img/px.png" alt=""/></a></div>
+<!--div class="scrinA" style="" id="vk"><a style="display:flex; align-items:stretch;" href="#vk"><img  src="fileadmin/templates/img/px.png" alt=""/></a></div-->
+<!--div class="scrinAlways" style="" id="inst"><a style="display:flex; align-items:stretch;" href="https://www.instagram.com/rnrmu_global/"  target="_blank"><img  src="fileadmin/templates/img/px.png" alt=""/></a></div>
 <!-- END F INST  -->
  <!--/div-->
  <div class="scrinBmB" style="align-items:stretch;" id="allMenuReplA"> 
-  <span style="align-items:center;" class="gamburger"><img  src="./fileadmin/templates/img/px.png" alt=""/></span></div>
+  <span style="align-items:center;" class="gamburger"><img  src="fileadmin/templates/img/px.png" alt=""/></span></div>
 <!-- -->
 <ul class="menuheadline scrinAm">
-<li><div><a href="./search.html" id="searchIcon"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div></li>
+<li><div><a href="./search.html" id="searchIcon"><img  src="fileadmin/templates/img/px.png" alt=""/></a></div></li>
 <li><div><a href="#" id="EngRu">Ru</a></div></li>
 </ul>
 </div><!--end headlineLR -->
@@ -114,83 +114,83 @@
 </div><!--end subDivIn-->
 </div><!--end subDiv-->
 </li>
-<li><div><a href="\admission.html">Admission</a></div>
+<li><div><a href="admission.html">Admission</a></div>
 <!-- -->
 <div class="subDivAuto zindex125" id="Admission" >
 <div class="subDivIn RNIMUgreen">
 <div>  
 <ul>
-<li><a href="\admission\apply-now.html">How to Apply</a></li>
-<li><a href="\admission\preparatory-courses.html">Preparatory Courses</a></li>  
-<li><a href="\admission\programs-and-degrees.html">Programs and Degrees</a></li>  
-<li><a href="\admission\transfer.html">Transfer</a></li>
-<li><a href="\admission\readmission.html">Readmission</a></li>  
-<li><a href="\admission\recognition-of-foreign-education.html">Recognition of Foreign Education</a></li>
+<li><a href="admission\apply-now.html">How to Apply</a></li>
+<li><a href="admission\preparatory-courses.html">Preparatory Courses</a></li>  
+<li><a href="admission\programs-and-degrees.html">Programs and Degrees</a></li>  
+<li><a href="admission\transfer.html">Transfer</a></li>
+<li><a href="admission\readmission.html">Readmission</a></li>  
+<li><a href="admission\recognition-of-foreign-education.html">Recognition of Foreign Education</a></li>
 <li><a href="./index_81.html">Tuition & Fees </a></li>
 <li><a href="./index_80.html">Invitation for a Visa</a></li>
-<li><a href="\admission\accommodation.html">Accommodation</a></li>
+<li><a href="admission\accommodation.html">Accommodation</a></li>
 
 </ul>    
 </div>
 </div><!--end subDivIn-->
 </div><!--end subDiv-->
 </li>
-<li><div><a href="\education.html">Academics</a></div>
+<li><div><a href="education.html">Academics</a></div>
 <!-- -->
 <div class="subDivAuto zindex125" id="Academics" >
 <div class="subDivIn RNIMUgreen">
 <div>  
 <ul>
-<li><a href="\academics\programs-and-degrees">Programs and Degrees</a></li>
-<li><a href="\academics\programs-and-degrees\undergraduate.html">Bachelor and Specialist Degree Programs</a></li>
-<li><a href="\academics\programs-and-degrees\master-degree">Master Degree Programs</a></li>
-<li><a href="\academics\clinical-residency.html">Clinical Residency</a></li>
-<li><a href="\academics\postgraduate-study.html">PhD School</a></li>
-<li><a href="\academics\continuing-education.html">Continuing Medical Education</a></li>
-<li><a href="\academics\schools">Faculties and Schools</a></li>
-<li><a href="\academics\academic-mobility.html">Academic Mobility and Exchange Programs</a></li>
-<li><a href="\academics\video-lectures">Lectures of Leading Specialists</a></li>
+<li><a href="academics\programs-and-degrees">Programs and Degrees</a></li>
+<li><a href="academics\programs-and-degrees\undergraduate.html">Bachelor and Specialist Degree Programs</a></li>
+<li><a href="academics\programs-and-degrees\master-degree">Master Degree Programs</a></li>
+<li><a href="academics\clinical-residency.html">Clinical Residency</a></li>
+<li><a href="academics\postgraduate-study.html">PhD School</a></li>
+<li><a href="academics\continuing-education.html">Continuing Medical Education</a></li>
+<li><a href="academics\schools">Faculties and Schools</a></li>
+<li><a href="academics\academic-mobility.html">Academic Mobility and Exchange Programs</a></li>
+<li><a href="academics\video-lectures">Lectures of Leading Specialists</a></li>
 </ul>
 </div>
 </div><!--end subDivIn-->
 </div><!--end subDiv-->
 </li>
-<li><div><a href="\research.html">Research</a></div>
+<li><div><a href="research.html">Research</a></div>
 <div class="subDivAuto zindex125" id="Science" >
 <div class="subDivIn RNIMUgreen">
 <div>
 <ul>
-<li><a href="\research\our-research">Our Research</a></li>
-<li><a href="\research\our-research\publications.html">Publications</a></li>
-<li><a href="\research\research-centers">Research Centers</a></li>
-<li><a href="\research\research-services\pre-clinical">Pre-Clinical Trials</a></li>
-  <li><a href="\research\research-services\clinical-trials">Clinical Trials</a></li>
+<li><a href="research\our-research">Our Research</a></li>
+<li><a href="research\our-research\publications.html">Publications</a></li>
+<li><a href="research\research-centers">Research Centers</a></li>
+<li><a href="research\research-services\pre-clinical">Pre-Clinical Trials</a></li>
+  <li><a href="research\research-services\clinical-trials">Clinical Trials</a></li>
 <li><a href="https://vestnikrgmu.ru/?lang=en" target=_blank>Research Journal</a></li>
-<li><a href="\research\student-scientific-society.html">Student Scientific Society</a></li>
-<li><a href="\academics\programs-and-degrees\phd-school">PhD School</a></li>
+<li><a href="research\student-scientific-society.html">Student Scientific Society</a></li>
+<li><a href="academics\programs-and-degrees\phd-school">PhD School</a></li>
 <li><a href="http://exoplast.ru/en/" target=_blank>University Innovative Company "Exoplast"</a></li> 
 </ul>
 </div>
 </div><!--end subDivIn-->
 </div><!--end subDiv-->
 </li>
-<li><div><a href="\campus-life">Campus Life</a></div>
+<li><div><a href="campus-life">Campus Life</a></div>
   <div class="subDivAuto zindex125" id="Science" >
 <div class="subDivIn RNIMUgreen">
 <div>
 <ul>
-   <li><a href="\campus-life\campus-map\index.html">Campus Map</a></li>
-<li><a href="\campus-life\student-organizations">Student Organizations</a></li>
-  <li><a href="\campus-life\sport">Sport & Recreation</a></li>
-  <li><a href="\campus-life\accomodation">Accommodation</a></li>
-  <li><a href="\campus-life\student-support">Student Support</a></li>
+   <li><a href="campus-life\campus-map\index.html">Campus Map</a></li>
+<li><a href="campus-life\student-organizations">Student Organizations</a></li>
+  <li><a href="campus-life\sport">Sport & Recreation</a></li>
+  <li><a href="campus-life\accomodation">Accommodation</a></li>
+  <li><a href="campus-life\student-support">Student Support</a></li>
  </ul>
 </div>
 </div><!--end subDivIn-->
 </div><!--end subDiv-->
     
 </li>
-<li><div><a href="\contacts.html">Contacts</a></div></li>
+<li><div><a href="contacts.html">Contacts</a></div></li>
 </ul>
 <!-- end common menu-->
  
@@ -205,11 +205,11 @@
 <div class="subDivIn BGwhite boxShadowA">
 <div>
 <ul>
-<li><a href="\admission\apply-now.html">How to Apply</a></li>
-<li><a href="\admission\transfer">Student Transfer</a></li>
-<li><a href="\admission\preparatory-courses.html">Preparatory Courses</a></li> 
-<li><a href="\admission\programs-and-degrees.html">Programs and Degrees</a></li>  
-<li><a href="\about\accreditation.html">Accreditation</a></li> 
+<li><a href="admission\apply-now.html">How to Apply</a></li>
+<li><a href="admission\transfer">Student Transfer</a></li>
+<li><a href="admission\preparatory-courses.html">Preparatory Courses</a></li> 
+<li><a href="admission\programs-and-degrees.html">Programs and Degrees</a></li>  
+<li><a href="about\accreditation.html">Accreditation</a></li> 
 </ul>
 </div>
 </div><!--end subDivIn-->
@@ -218,7 +218,7 @@
   
  
   
-<li><div><a href="\students.html">Students</a></div>
+<li><div><a href="students.html">Students</a></div>
 <div class="subDivAuto zindex125" id="Students" >
 <div class="subDivIn BGwhite boxShadowA">
 <div>
@@ -300,7 +300,7 @@ Professionals
 				Professionals
 			</h2></header></div>
 
-<div id="c836" class="frame frame-default frame-space-before-none frame-space-after-medium"><div class="itemscard"><div class="row rowB"><div class="col-md-8 col-lg-8 col-xl-8 flex"><div class="itemscard-item boxShadowA"><div class="divimg-cardRNIMUsty"><a class="linkA" title="link" href="\academics\programs-and-degrees\continuing-education.html"><img class="img-cardRNIMUsty" src="fileadmin/templates/img/cardimg/programs/cme.jpg"></a></div><div class="itemscard-text-link"><ul class="link-wrapper"><li><a class="linkA" title="link" href="\academics\programs-and-degrees\continuing-education.html">Continuing Medical Education</a></li></ul></div></div></div><div class="col-md-8 col-lg-8 col-xl-8 flex"><div class="itemscard-item boxShadowA"><div class="divimg-cardRNIMUsty"><a class="linkA" title="link" href="\academics\programs-and-degrees\phd-school.html"><img class="img-cardRNIMUsty" src="fileadmin/templates/img/cardimg/research/research_our6.jpg"></a></div><div class="itemscard-text-link"><ul class="link-wrapper"><li><a class="linkA" title="link" href="\academics\programs-and-degrees\phd-school.html">PhD School</a></li></ul></div></div></div><div class="col-md-8 col-sm-24 col-lg-8 col-xl-8 flex"><div class="itemscard-item boxShadowA"><div class="divimg-cardRNIMUsty"><a class="linkA" title="link" href="https://vestnikrgmu.ru/?lang=en" target=_blank><img class="img-cardRNIMUsty" src="fileadmin/templates/img/cardimg/research/Journal2.png"></a></div><div class="itemscard-text-link"><ul class="link-wrapper"><li><a class="linkA" title="link" href="https://vestnikrgmu.ru/?lang=en" target=_blank>Our Scientific Journal</a></li></ul></div></div></div><div class="col-sm-24 col-md-12 col-lg-12 col-xl-12 flex"><div class="itemscard-item boxShadowA"><div class="divimg-cardRNIMUsty"><a class="linkA" title="link" href="/research/research-services/pre-clinical"><img class="img-cardRNIMUsty" src="fileadmin/templates/img/cardimg/research/research_our.jpg"></a></div><div class="itemscard-text-link"><ul class="link-wrapper"><li><a class="linkA" title="link" href="/research/research-services/pre-clinical">Pre-Clinical Trials</a></li></ul></div></div></div><div class="col-sm-24 col-md-12 col-lg-12 col-xl-12 flex"><div class="itemscard-item boxShadowA"><div class="divimg-cardRNIMUsty"><a class="linkA" title="link" href="/research/research-services/clinical-trials"><img class="img-cardRNIMUsty" src="fileadmin/templates/img/cardimg/research/research_our2.jpg"></a></div><div class="itemscard-text-link"><ul class="link-wrapper"><li><a class="linkA" title="link" href="/research/research-services/clinical-trials">Clinical Trials</a></li></ul></div></div></div></div></div></div>
+<div id="c836" class="frame frame-default frame-space-before-none frame-space-after-medium"><div class="itemscard"><div class="row rowB"><div class="col-md-8 col-lg-8 col-xl-8 flex"><div class="itemscard-item boxShadowA"><div class="divimg-cardRNIMUsty"><a class="linkA" title="link" href="academics\programs-and-degrees\continuing-education.html"><img class="img-cardRNIMUsty" src="fileadmin/templates/img/cardimg/programs/cme.jpg"></a></div><div class="itemscard-text-link"><ul class="link-wrapper"><li><a class="linkA" title="link" href="academics\programs-and-degrees\continuing-education.html">Continuing Medical Education</a></li></ul></div></div></div><div class="col-md-8 col-lg-8 col-xl-8 flex"><div class="itemscard-item boxShadowA"><div class="divimg-cardRNIMUsty"><a class="linkA" title="link" href="academics\programs-and-degrees\phd-school.html"><img class="img-cardRNIMUsty" src="fileadmin/templates/img/cardimg/research/research_our6.jpg"></a></div><div class="itemscard-text-link"><ul class="link-wrapper"><li><a class="linkA" title="link" href="academics\programs-and-degrees\phd-school.html">PhD School</a></li></ul></div></div></div><div class="col-md-8 col-sm-24 col-lg-8 col-xl-8 flex"><div class="itemscard-item boxShadowA"><div class="divimg-cardRNIMUsty"><a class="linkA" title="link" href="https://vestnikrgmu.ru/?lang=en" target=_blank><img class="img-cardRNIMUsty" src="fileadmin/templates/img/cardimg/research/Journal2.png"></a></div><div class="itemscard-text-link"><ul class="link-wrapper"><li><a class="linkA" title="link" href="https://vestnikrgmu.ru/?lang=en" target=_blank>Our Scientific Journal</a></li></ul></div></div></div><div class="col-sm-24 col-md-12 col-lg-12 col-xl-12 flex"><div class="itemscard-item boxShadowA"><div class="divimg-cardRNIMUsty"><a class="linkA" title="link" href="/research/research-services/pre-clinical"><img class="img-cardRNIMUsty" src="fileadmin/templates/img/cardimg/research/research_our.jpg"></a></div><div class="itemscard-text-link"><ul class="link-wrapper"><li><a class="linkA" title="link" href="/research/research-services/pre-clinical">Pre-Clinical Trials</a></li></ul></div></div></div><div class="col-sm-24 col-md-12 col-lg-12 col-xl-12 flex"><div class="itemscard-item boxShadowA"><div class="divimg-cardRNIMUsty"><a class="linkA" title="link" href="/research/research-services/clinical-trials"><img class="img-cardRNIMUsty" src="fileadmin/templates/img/cardimg/research/research_our2.jpg"></a></div><div class="itemscard-text-link"><ul class="link-wrapper"><li><a class="linkA" title="link" href="/research/research-services/clinical-trials">Clinical Trials</a></li></ul></div></div></div></div></div></div>
 <!--TYPO3SEARCH_end--></div><!--end centrA-->  
 <div class="rightA"><!--TYPO3SEARCH_begin--><!--TYPO3SEARCH_end--> </div><!--end rightA-->   
 </div>  
@@ -318,8 +318,8 @@ All rights reserved <br />
 <div style="" class="flex socnetworkline">  
   <div class="linebottom flex">
   <div class="txt">Connect With Us</div>
-<div class="scrinAlways facebooklink"  ><a  href="https://www.facebook.com/Pirogov-Russian-National-Research-Medical-University-452412755317014/?modal=admin_todo_tour"  target="_blank"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div>
-<div class="scrinAlways instlink"  ><a  href="https://www.instagram.com/rnrmu_global/"  target="_blank"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div>
+<div class="scrinAlways facebooklink"  ><a  href="https://www.facebook.com/Pirogov-Russian-National-Research-Medical-University-452412755317014/?modal=admin_todo_tour"  target="_blank"><img  src="fileadmin/templates/img/px.png" alt=""/></a></div>
+<div class="scrinAlways instlink"  ><a  href="https://www.instagram.com/rnrmu_global/"  target="_blank"><img  src="fileadmin/templates/img/px.png" alt=""/></a></div>
   </div>
   </div>
    <!---->
@@ -355,83 +355,83 @@ All rights reserved <br />
 </div><!--end subDivIn-->
 </div><!--end subDiv-->
 </li>
-<li><div><a href="\admission.html">Admission</a></div>
+<li><div><a href="admission.html">Admission</a></div>
 <!-- -->
 <div class="subDivAuto zindex125" id="Admission" >
 <div class="subDivIn RNIMUgreen">
 <div>  
 <ul>
-<li><a href="\admission\apply-now.html">How to Apply</a></li>
-<li><a href="\admission\preparatory-courses.html">Preparatory Courses</a></li>  
-<li><a href="\admission\programs-and-degrees.html">Programs and Degrees</a></li>  
-<li><a href="\admission\transfer.html">Transfer</a></li>
-<li><a href="\admission\readmission.html">Readmission</a></li>  
-<li><a href="\admission\recognition-of-foreign-education.html">Recognition of Foreign Education</a></li>
+<li><a href="admission\apply-now.html">How to Apply</a></li>
+<li><a href="admission\preparatory-courses.html">Preparatory Courses</a></li>  
+<li><a href="admission\programs-and-degrees.html">Programs and Degrees</a></li>  
+<li><a href="admission\transfer.html">Transfer</a></li>
+<li><a href="admission\readmission.html">Readmission</a></li>  
+<li><a href="admission\recognition-of-foreign-education.html">Recognition of Foreign Education</a></li>
 <li><a href="./index_81.html">Tuition & Fees </a></li>
 <li><a href="./index_80.html">Invitation for a Visa</a></li>
-<li><a href="\admission\accommodation.html">Accommodation</a></li>
+<li><a href="admission\accommodation.html">Accommodation</a></li>
 
 </ul>    
 </div>
 </div><!--end subDivIn-->
 </div><!--end subDiv-->
 </li>
-<li><div><a href="\education.html">Academics</a></div>
+<li><div><a href="education.html">Academics</a></div>
 <!-- -->
 <div class="subDivAuto zindex125" id="Academics" >
 <div class="subDivIn RNIMUgreen">
 <div>  
 <ul>
-<li><a href="\academics\programs-and-degrees">Programs and Degrees</a></li>
-<li><a href="\academics\programs-and-degrees\undergraduate.html">Bachelor and Specialist Degree Programs</a></li>
-<li><a href="\academics\programs-and-degrees\master-degree">Master Degree Programs</a></li>
-<li><a href="\academics\clinical-residency.html">Clinical Residency</a></li>
-<li><a href="\academics\postgraduate-study.html">PhD School</a></li>
-<li><a href="\academics\continuing-education.html">Continuing Medical Education</a></li>
-<li><a href="\academics\schools">Faculties and Schools</a></li>
-<li><a href="\academics\academic-mobility.html">Academic Mobility and Exchange Programs</a></li>
-<li><a href="\academics\video-lectures">Lectures of Leading Specialists</a></li>
+<li><a href="academics\programs-and-degrees">Programs and Degrees</a></li>
+<li><a href="academics\programs-and-degrees\undergraduate.html">Bachelor and Specialist Degree Programs</a></li>
+<li><a href="academics\programs-and-degrees\master-degree">Master Degree Programs</a></li>
+<li><a href="academics\clinical-residency.html">Clinical Residency</a></li>
+<li><a href="academics\postgraduate-study.html">PhD School</a></li>
+<li><a href="academics\continuing-education.html">Continuing Medical Education</a></li>
+<li><a href="academics\schools">Faculties and Schools</a></li>
+<li><a href="academics\academic-mobility.html">Academic Mobility and Exchange Programs</a></li>
+<li><a href="academics\video-lectures">Lectures of Leading Specialists</a></li>
 </ul>
 </div>
 </div><!--end subDivIn-->
 </div><!--end subDiv-->
 </li>
-<li><div><a href="\research.html">Research</a></div>
+<li><div><a href="research.html">Research</a></div>
 <div class="subDivAuto zindex125" id="Science" >
 <div class="subDivIn RNIMUgreen">
 <div>
 <ul>
-<li><a href="\research\our-research">Our Research</a></li>
-<li><a href="\research\our-research\publications.html">Publications</a></li>
-<li><a href="\research\research-centers">Research Centers</a></li>
-<li><a href="\research\research-services\pre-clinical">Pre-Clinical Trials</a></li>
-  <li><a href="\research\research-services\clinical-trials">Clinical Trials</a></li>
+<li><a href="research\our-research">Our Research</a></li>
+<li><a href="research\our-research\publications.html">Publications</a></li>
+<li><a href="research\research-centers">Research Centers</a></li>
+<li><a href="research\research-services\pre-clinical">Pre-Clinical Trials</a></li>
+  <li><a href="research\research-services\clinical-trials">Clinical Trials</a></li>
 <li><a href="https://vestnikrgmu.ru/?lang=en" target=_blank>Research Journal</a></li>
-<li><a href="\research\student-scientific-society.html">Student Scientific Society</a></li>
-<li><a href="\academics\programs-and-degrees\phd-school">PhD School</a></li>
+<li><a href="research\student-scientific-society.html">Student Scientific Society</a></li>
+<li><a href="academics\programs-and-degrees\phd-school">PhD School</a></li>
 <li><a href="http://exoplast.ru/en/" target=_blank>University Innovative Company "Exoplast"</a></li> 
 </ul>
 </div>
 </div><!--end subDivIn-->
 </div><!--end subDiv-->
 </li>
-<li><div><a href="\campus-life">Campus Life</a></div>
+<li><div><a href="campus-life">Campus Life</a></div>
   <div class="subDivAuto zindex125" id="Science" >
 <div class="subDivIn RNIMUgreen">
 <div>
 <ul>
-   <li><a href="\campus-life\campus-map\index.html">Campus Map</a></li>
-<li><a href="\campus-life\student-organizations">Student Organizations</a></li>
-  <li><a href="\campus-life\sport">Sport & Recreation</a></li>
-  <li><a href="\campus-life\accomodation">Accommodation</a></li>
-  <li><a href="\campus-life\student-support">Student Support</a></li>
+   <li><a href="campus-life\campus-map\index.html">Campus Map</a></li>
+<li><a href="campus-life\student-organizations">Student Organizations</a></li>
+  <li><a href="campus-life\sport">Sport & Recreation</a></li>
+  <li><a href="campus-life\accomodation">Accommodation</a></li>
+  <li><a href="campus-life\student-support">Student Support</a></li>
  </ul>
 </div>
 </div><!--end subDivIn-->
 </div><!--end subDiv-->
     
 </li>
-<li><div><a href="\contacts.html">Contacts</a></div></li>
+<li><div><a href="contacts.html">Contacts</a></div></li>
 </ul>
 <!-- end common menu-->
  
@@ -443,11 +443,11 @@ All rights reserved <br />
 <div class="subDivIn BGwhite boxShadowA">
 <div>
 <ul>
-<li><a href="\admission\apply-now.html">How to Apply</a></li>
-<li><a href="\admission\transfer">Student Transfer</a></li>
-<li><a href="\admission\preparatory-courses.html">Preparatory Courses</a></li> 
-<li><a href="\admission\programs-and-degrees.html">Programs and Degrees</a></li>  
-<li><a href="\about\accreditation.html">Accreditation</a></li> 
+<li><a href="admission\apply-now.html">How to Apply</a></li>
+<li><a href="admission\transfer">Student Transfer</a></li>
+<li><a href="admission\preparatory-courses.html">Preparatory Courses</a></li> 
+<li><a href="admission\programs-and-degrees.html">Programs and Degrees</a></li>  
+<li><a href="about\accreditation.html">Accreditation</a></li> 
 </ul>
 </div>
 </div><!--end subDivIn-->
@@ -456,7 +456,7 @@ All rights reserved <br />
   
  
   
-<li><div><a href="\students.html">Students</a></div>
+<li><div><a href="students.html">Students</a></div>
 <div class="subDivAuto zindex125" id="Students" >
 <div class="subDivIn BGwhite boxShadowA">
 <div>
