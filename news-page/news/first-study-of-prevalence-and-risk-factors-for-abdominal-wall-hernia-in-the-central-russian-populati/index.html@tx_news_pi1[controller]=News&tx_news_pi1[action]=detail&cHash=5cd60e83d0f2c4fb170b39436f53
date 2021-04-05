@@ -10,7 +10,7 @@
 	Information and contribution at https://typo3.org/
 -->
 
-<base href="./" src="./">
+<base href="">
 <link rel="shortcut icon" href="fileadmin/favicon.ico" type="image/x-icon">
 <title>First Study of prevalence and risk factors for abdominal wall hernia in the Central Russian population</title>
 <meta name="generator" content="TYPO3 CMS">
@@ -114,83 +114,83 @@
 </div><!--end subDivIn-->
 </div><!--end subDiv-->
 </li>
-<li><div><a href="\admission.html">Admission</a></div>
+<li><div><a href="admission.html">Admission</a></div>
 <!-- -->
 <div class="subDivAuto zindex125" id="Admission" >
 <div class="subDivIn RNIMUgreen">
 <div>  
 <ul>
-<li><a href="\admission\apply-now.html">How to Apply</a></li>
-<li><a href="\admission\preparatory-courses.html">Preparatory Courses</a></li>  
-<li><a href="\admission\programs-and-degrees.html">Programs and Degrees</a></li>  
-<li><a href="\admission\transfer.html">Transfer</a></li>
-<li><a href="\admission\readmission.html">Readmission</a></li>  
-<li><a href="\admission\recognition-of-foreign-education.html">Recognition of Foreign Education</a></li>
+<li><a href="admission\apply-now.html">How to Apply</a></li>
+<li><a href="admission\preparatory-courses.html">Preparatory Courses</a></li>  
+<li><a href="admission\programs-and-degrees.html">Programs and Degrees</a></li>  
+<li><a href="admission\transfer.html">Transfer</a></li>
+<li><a href="admission\readmission.html">Readmission</a></li>  
+<li><a href="admission\recognition-of-foreign-education.html">Recognition of Foreign Education</a></li>
 <li><a href="index_81.html">Tuition & Fees </a></li>
 <li><a href="index_80.html">Invitation for a Visa</a></li>
-<li><a href="\admission\accommodation.html">Accommodation</a></li>
+<li><a href="admission\accommodation.html">Accommodation</a></li>
 
 </ul>    
 </div>
 </div><!--end subDivIn-->
 </div><!--end subDiv-->
 </li>
-<li><div><a href="\education.html">Academics</a></div>
+<li><div><a href="education.html">Academics</a></div>
 <!-- -->
 <div class="subDivAuto zindex125" id="Academics" >
 <div class="subDivIn RNIMUgreen">
 <div>  
 <ul>
-<li><a href="\academics\programs-and-degrees">Programs and Degrees</a></li>
-<li><a href="\academics\programs-and-degrees\undergraduate.html">Bachelor and Specialist Degree Programs</a></li>
-<li><a href="\academics\programs-and-degrees\master-degree">Master Degree Programs</a></li>
-<li><a href="\academics\clinical-residency.html">Clinical Residency</a></li>
-<li><a href="\academics\postgraduate-study.html">PhD School</a></li>
-<li><a href="\academics\continuing-education.html">Continuing Medical Education</a></li>
-<li><a href="\academics\schools">Faculties and Schools</a></li>
-<li><a href="\academics\academic-mobility.html">Academic Mobility and Exchange Programs</a></li>
-<li><a href="\academics\video-lectures">Lectures of Leading Specialists</a></li>
+<li><a href="academics\programs-and-degrees">Programs and Degrees</a></li>
+<li><a href="academics\programs-and-degrees\undergraduate.html">Bachelor and Specialist Degree Programs</a></li>
+<li><a href="academics\programs-and-degrees\master-degree">Master Degree Programs</a></li>
+<li><a href="academics\clinical-residency.html">Clinical Residency</a></li>
+<li><a href="academics\postgraduate-study.html">PhD School</a></li>
+<li><a href="academics\continuing-education.html">Continuing Medical Education</a></li>
+<li><a href="academics\schools">Faculties and Schools</a></li>
+<li><a href="academics\academic-mobility.html">Academic Mobility and Exchange Programs</a></li>
+<li><a href="academics\video-lectures">Lectures of Leading Specialists</a></li>
 </ul>
 </div>
 </div><!--end subDivIn-->
 </div><!--end subDiv-->
 </li>
-<li><div><a href="\research.html">Research</a></div>
+<li><div><a href="research.html">Research</a></div>
 <div class="subDivAuto zindex125" id="Science" >
 <div class="subDivIn RNIMUgreen">
 <div>
 <ul>
-<li><a href="\research\our-research">Our Research</a></li>
-<li><a href="\research\our-research\publications.html">Publications</a></li>
-<li><a href="\research\research-centers">Research Centers</a></li>
-<li><a href="\research\research-services\pre-clinical">Pre-Clinical Trials</a></li>
-  <li><a href="\research\research-services\clinical-trials">Clinical Trials</a></li>
+<li><a href="research\our-research/index.html">Our Research</a></li>
+<li><a href="research\our-research\publications.html">Publications</a></li>
+<li><a href="research\research-centers">Research Centers</a></li>
+<li><a href="research\research-services\pre-clinical">Pre-Clinical Trials</a></li>
+  <li><a href="research\research-services\clinical-trials">Clinical Trials</a></li>
 <li><a href="https://vestnikrgmu.ru/?lang=en" target=_blank>Research Journal</a></li>
-<li><a href="\research\student-scientific-society.html">Student Scientific Society</a></li>
-<li><a href="\academics\programs-and-degrees\phd-school">PhD School</a></li>
+<li><a href="research\student-scientific-society.html">Student Scientific Society</a></li>
+<li><a href="academics\programs-and-degrees\phd-school">PhD School</a></li>
 <li><a href="http://exoplast.ru/en/" target=_blank>University Innovative Company "Exoplast"</a></li> 
 </ul>
 </div>
 </div><!--end subDivIn-->
 </div><!--end subDiv-->
 </li>
-<li><div><a href="\campus-life">Campus Life</a></div>
+<li><div><a href="campus-life">Campus Life</a></div>
   <div class="subDivAuto zindex125" id="Science" >
 <div class="subDivIn RNIMUgreen">
 <div>
 <ul>
-   <li><a href="\campus-life\campus-map\index.html">Campus Map</a></li>
-<li><a href="\campus-life\student-organizations">Student Organizations</a></li>
-  <li><a href="\campus-life\sport">Sport & Recreation</a></li>
-  <li><a href="\campus-life\accomodation">Accommodation</a></li>
-  <li><a href="\campus-life\student-support">Student Support</a></li>
+   <li><a href="campus-life\campus-map\index.html">Campus Map</a></li>
+<li><a href="campus-life\student-organizations">Student Organizations</a></li>
+  <li><a href="campus-life\sport">Sport & Recreation</a></li>
+  <li><a href="campus-life\accomodation">Accommodation</a></li>
+  <li><a href="campus-life\student-support">Student Support</a></li>
  </ul>
 </div>
 </div><!--end subDivIn-->
 </div><!--end subDiv-->
     
 </li>
-<li><div><a href="\contacts.html">Contacts</a></div></li>
+<li><div><a href="contacts.html">Contacts</a></div></li>
 </ul>
 <!-- end common menu-->
  
@@ -205,11 +205,11 @@
 <div class="subDivIn BGwhite boxShadowA">
 <div>
 <ul>
-<li><a href="\admission\apply-now.html">How to Apply</a></li>
-<li><a href="\admission\transfer">Student Transfer</a></li>
-<li><a href="\admission\preparatory-courses.html">Preparatory Courses</a></li> 
-<li><a href="\admission\programs-and-degrees.html">Programs and Degrees</a></li>  
-<li><a href="\about\accreditation.html">Accreditation</a></li> 
+<li><a href="admission\apply-now.html">How to Apply</a></li>
+<li><a href="admission\transfer">Student Transfer</a></li>
+<li><a href="admission\preparatory-courses.html">Preparatory Courses</a></li> 
+<li><a href="admission\programs-and-degrees.html">Programs and Degrees</a></li>  
+<li><a href="about\accreditation.html">Accreditation</a></li> 
 </ul>
 </div>
 </div><!--end subDivIn-->
@@ -218,7 +218,7 @@
   
  
   
-<li><div><a href="\students.html">Students</a></div>
+<li><div><a href="students.html">Students</a></div>
 <div class="subDivAuto zindex125" id="Students" >
 <div class="subDivIn BGwhite boxShadowA">
 <div>
@@ -232,7 +232,7 @@
 <li><a href="campus-life\student-organizations">Student Organizations</a></li>
 <li><a href="campus-life\accomodation">Accommodation</a></li>
 <li><a href="index_81.html">Tuition & Fees </a></li>
-<li><a href="index.php?id=366">Student Scholarships and Awards </a></li>
+<li><a href="index_366.html">Student Scholarships and Awards </a></li>
 <li><a  href="campus-life\student-support\certificat-request-form">Request for a Certificate On-line</a></li>
 <li> <a href="about\administrative-policies.html">Administrative Policies </a></li>
 <li><a href="students\readmission.html">Readmission</a></li>
@@ -377,83 +377,83 @@ All rights reserved <br />
 </div><!--end subDivIn-->
 </div><!--end subDiv-->
 </li>
-<li><div><a href="\admission.html">Admission</a></div>
+<li><div><a href="admission.html">Admission</a></div>
 <!-- -->
 <div class="subDivAuto zindex125" id="Admission" >
 <div class="subDivIn RNIMUgreen">
 <div>  
 <ul>
-<li><a href="\admission\apply-now.html">How to Apply</a></li>
-<li><a href="\admission\preparatory-courses.html">Preparatory Courses</a></li>  
-<li><a href="\admission\programs-and-degrees.html">Programs and Degrees</a></li>  
-<li><a href="\admission\transfer.html">Transfer</a></li>
-<li><a href="\admission\readmission.html">Readmission</a></li>  
-<li><a href="\admission\recognition-of-foreign-education.html">Recognition of Foreign Education</a></li>
+<li><a href="admission\apply-now.html">How to Apply</a></li>
+<li><a href="admission\preparatory-courses.html">Preparatory Courses</a></li>  
+<li><a href="admission\programs-and-degrees.html">Programs and Degrees</a></li>  
+<li><a href="admission\transfer.html">Transfer</a></li>
+<li><a href="admission\readmission.html">Readmission</a></li>  
+<li><a href="admission\recognition-of-foreign-education.html">Recognition of Foreign Education</a></li>
 <li><a href="index_81.html">Tuition & Fees </a></li>
 <li><a href="index_80.html">Invitation for a Visa</a></li>
-<li><a href="\admission\accommodation.html">Accommodation</a></li>
+<li><a href="admission\accommodation.html">Accommodation</a></li>
 
 </ul>    
 </div>
 </div><!--end subDivIn-->
 </div><!--end subDiv-->
 </li>
-<li><div><a href="\education.html">Academics</a></div>
+<li><div><a href="education.html">Academics</a></div>
 <!-- -->
 <div class="subDivAuto zindex125" id="Academics" >
 <div class="subDivIn RNIMUgreen">
 <div>  
 <ul>
-<li><a href="\academics\programs-and-degrees">Programs and Degrees</a></li>
-<li><a href="\academics\programs-and-degrees\undergraduate.html">Bachelor and Specialist Degree Programs</a></li>
-<li><a href="\academics\programs-and-degrees\master-degree">Master Degree Programs</a></li>
-<li><a href="\academics\clinical-residency.html">Clinical Residency</a></li>
-<li><a href="\academics\postgraduate-study.html">PhD School</a></li>
-<li><a href="\academics\continuing-education.html">Continuing Medical Education</a></li>
-<li><a href="\academics\schools">Faculties and Schools</a></li>
-<li><a href="\academics\academic-mobility.html">Academic Mobility and Exchange Programs</a></li>
-<li><a href="\academics\video-lectures">Lectures of Leading Specialists</a></li>
+<li><a href="academics\programs-and-degrees">Programs and Degrees</a></li>
+<li><a href="academics\programs-and-degrees\undergraduate.html">Bachelor and Specialist Degree Programs</a></li>
+<li><a href="academics\programs-and-degrees\master-degree">Master Degree Programs</a></li>
+<li><a href="academics\clinical-residency.html">Clinical Residency</a></li>
+<li><a href="academics\postgraduate-study.html">PhD School</a></li>
+<li><a href="academics\continuing-education.html">Continuing Medical Education</a></li>
+<li><a href="academics\schools">Faculties and Schools</a></li>
+<li><a href="academics\academic-mobility.html">Academic Mobility and Exchange Programs</a></li>
+<li><a href="academics\video-lectures">Lectures of Leading Specialists</a></li>
 </ul>
 </div>
 </div><!--end subDivIn-->
 </div><!--end subDiv-->
 </li>
-<li><div><a href="\research.html">Research</a></div>
+<li><div><a href="research.html">Research</a></div>
 <div class="subDivAuto zindex125" id="Science" >
 <div class="subDivIn RNIMUgreen">
 <div>
 <ul>
-<li><a href="\research\our-research">Our Research</a></li>
-<li><a href="\research\our-research\publications.html">Publications</a></li>
-<li><a href="\research\research-centers">Research Centers</a></li>
-<li><a href="\research\research-services\pre-clinical">Pre-Clinical Trials</a></li>
-  <li><a href="\research\research-services\clinical-trials">Clinical Trials</a></li>
+<li><a href="research\our-research/index.html">Our Research</a></li>
+<li><a href="research\our-research\publications.html">Publications</a></li>
+<li><a href="research\research-centers">Research Centers</a></li>
+<li><a href="research\research-services\pre-clinical">Pre-Clinical Trials</a></li>
+  <li><a href="research\research-services\clinical-trials">Clinical Trials</a></li>
 <li><a href="https://vestnikrgmu.ru/?lang=en" target=_blank>Research Journal</a></li>
-<li><a href="\research\student-scientific-society.html">Student Scientific Society</a></li>
-<li><a href="\academics\programs-and-degrees\phd-school">PhD School</a></li>
+<li><a href="research\student-scientific-society.html">Student Scientific Society</a></li>
+<li><a href="academics\programs-and-degrees\phd-school">PhD School</a></li>
 <li><a href="http://exoplast.ru/en/" target=_blank>University Innovative Company "Exoplast"</a></li> 
 </ul>
 </div>
 </div><!--end subDivIn-->
 </div><!--end subDiv-->
 </li>
-<li><div><a href="\campus-life">Campus Life</a></div>
+<li><div><a href="campus-life">Campus Life</a></div>
   <div class="subDivAuto zindex125" id="Science" >
 <div class="subDivIn RNIMUgreen">
 <div>
 <ul>
-   <li><a href="\campus-life\campus-map\index.html">Campus Map</a></li>
-<li><a href="\campus-life\student-organizations">Student Organizations</a></li>
-  <li><a href="\campus-life\sport">Sport & Recreation</a></li>
-  <li><a href="\campus-life\accomodation">Accommodation</a></li>
-  <li><a href="\campus-life\student-support">Student Support</a></li>
+   <li><a href="campus-life\campus-map\index.html">Campus Map</a></li>
+<li><a href="campus-life\student-organizations">Student Organizations</a></li>
+  <li><a href="campus-life\sport">Sport & Recreation</a></li>
+  <li><a href="campus-life\accomodation">Accommodation</a></li>
+  <li><a href="campus-life\student-support">Student Support</a></li>
  </ul>
 </div>
 </div><!--end subDivIn-->
 </div><!--end subDiv-->
     
 </li>
-<li><div><a href="\contacts.html">Contacts</a></div></li>
+<li><div><a href="contacts.html">Contacts</a></div></li>
 </ul>
 <!-- end common menu-->
  
@@ -465,11 +465,11 @@ All rights reserved <br />
 <div class="subDivIn BGwhite boxShadowA">
 <div>
 <ul>
-<li><a href="\admission\apply-now.html">How to Apply</a></li>
-<li><a href="\admission\transfer">Student Transfer</a></li>
-<li><a href="\admission\preparatory-courses.html">Preparatory Courses</a></li> 
-<li><a href="\admission\programs-and-degrees.html">Programs and Degrees</a></li>  
-<li><a href="\about\accreditation.html">Accreditation</a></li> 
+<li><a href="admission\apply-now.html">How to Apply</a></li>
+<li><a href="admission\transfer">Student Transfer</a></li>
+<li><a href="admission\preparatory-courses.html">Preparatory Courses</a></li> 
+<li><a href="admission\programs-and-degrees.html">Programs and Degrees</a></li>  
+<li><a href="about\accreditation.html">Accreditation</a></li> 
 </ul>
 </div>
 </div><!--end subDivIn-->
@@ -478,7 +478,7 @@ All rights reserved <br />
   
  
   
-<li><div><a href="\students.html">Students</a></div>
+<li><div><a href="students.html">Students</a></div>
 <div class="subDivAuto zindex125" id="Students" >
 <div class="subDivIn BGwhite boxShadowA">
 <div>
@@ -492,7 +492,7 @@ All rights reserved <br />
 <li><a href="campus-life\student-organizations">Student Organizations</a></li>
 <li><a href="campus-life\accomodation">Accommodation</a></li>
 <li><a href="index_81.html">Tuition & Fees </a></li>
-<li><a href="index.php?id=366">Student Scholarships and Awards </a></li>
+<li><a href="index_366.html">Student Scholarships and Awards </a></li>
 <li><a  href="campus-life\student-support\certificat-request-form">Request for a Certificate On-line</a></li>
 <li> <a href="about\administrative-policies.html">Administrative Policies </a></li>
 <li><a href="students\readmission.html">Readmission</a></li>
