@@ -1,0 +1,665 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2018 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+<!--<base href="http://pirogov-university.com">-->
+<link rel="shortcut icon" href="/fileadmin/favicon.ico" type="image/x-icon">
+<title>Research Aims and Achievements</title>
+<meta name="generator" content="TYPO3 CMS">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<link rel="stylesheet" type="text/css" href="typo3temp/assets/css/d42b6e1bdf.css?1539705817" media="all">
+<link rel="stylesheet" type="text/css" href="typo3conf/ext/slickcarousel/Resources/Public/Css/slick.min.css?1539690850" media="all">
+<link rel="stylesheet" type="text/css" href="typo3conf/ext/cewrap/Resources/Public/Css/styles.css?1560182339" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/24flex.css?1562611372" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/iconLink.css?1562330953" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/blockmenu.css?1588024896" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/accordion.css?1588024710" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/itemscard.css?1617377706" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/tabcard.css?1588025497" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/style.css?1590692215" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/news.css?1588025087" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/startSty.css?1562330236" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/media.css?1562330424" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/addSty.css?1588025627" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/addslick.css?1562331452" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/workSty.css?1586266431" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/additional.css?1609173911" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/rte.css?1562330658" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/css/vacant.css?1608285508" media="all">
+
+
+
+<script src="fileadmin/templates/js/jquery-3.3.1.js?1540561255" type="text/javascript"></script>
+<script src="fileadmin/templates/js/jQready.js?1552492382" type="text/javascript"></script>
+
+
+
+</head>
+<body class="colorStandart fsStandart">
+<div class="fixTopBlock">
+  <!--RRRRRRRRRRRRRRRRRR-->
+<div class="coverTop BGdark scrinBm">
+<div class="headlineLR" style="border-bottom:1px dotted #aaa;">
+<div style="align-items:stretch;" id="allMenuReplB"><span style="align-items:center;" class="gamburger"><img  src="./fileadmin/templates/img/px.png" alt=""/></span>
+</div>
+<div style="flex-direction:row;" class="flex">  
+<!-- F INST-->
+  <!--div class="scrinAlways" style="flex: 0 0 3rem;" id="facebook"><a style="display:flex; align-items:stretch;" href="https://www.facebook.com/Pirogov-Russian-National-Research-Medical-University-452412755317014/?modal=admin_todo_tour"  target="_blank"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div>
+<!--div class="scrinA" style="" id="vk"><a style="display:flex; align-items:stretch;" href="#vk"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div-->
+<!--div class="scrinAlways" style="flex: 0 0 3rem;" id="inst"><a style="display:flex; align-items:stretch;" href="https://www.instagram.com/rnrmu_global/"  target="_blank"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div>
+<!-- END F INST  -->
+ 
+  </div>
+<!--  -->
+<ul class="menuheadline">
+<li class="scrinAlways"><div><a href="./search.html" id="searchIcon"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div></li>
+<li class="scrinAlways"><div><a href="#" id="EngRu">Ru</a></div></li>
+</ul>
+</div></div>
+<!--  end coverTop BGdark scrinBm  -->
+<div class="coverTop BGdark">
+<div class="headlineLR">
+<div class="scrinAlways" style="align-items:stretch;"><a href="#logo" id="minLogoW" style="align-items:center;"><img  src="./fileadmin/templates/img/px.png" alt=""/></a><a href="#logo" id="minLogoTitleW">Pirogov Medical University</a></div>
+<!-- -->
+<!--div class="scrinA" style="" id="facebook"><a style="display:flex; align-items:stretch;" href="https://www.facebook.com/Pirogov-Russian-National-Research-Medical-University-452412755317014/?modal=admin_todo_tour" target="_blank"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div>
+<!--div class="scrinA" style="" id="vk"><a style="display:flex; align-items:stretch;" href="#vk"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div-->
+<!--div class="scrinA" style="" id="inst"><a style="display:flex; align-items:stretch;" href="https://www.instagram.com/rnrmu_global/"  target="_blank"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div-->
+<div class="hfill"></div>
+
+<!--div class="scrinBmB">
+<!-- F INST-->
+  <!--div class="scrinAlways" style="" id="facebook"><a style="display:flex; align-items:stretch;" href="https://www.facebook.com/Pirogov-Russian-National-Research-Medical-University-452412755317014/?modal=admin_todo_tour"  target="_blank"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div>
+<!--div class="scrinA" style="" id="vk"><a style="display:flex; align-items:stretch;" href="#vk"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div-->
+<!--div class="scrinAlways" style="" id="inst"><a style="display:flex; align-items:stretch;" href="https://www.instagram.com/rnrmu_global/"  target="_blank"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div>
+<!-- END F INST  -->
+ <!--/div-->
+ <div class="scrinBmB" style="align-items:stretch;" id="allMenuReplA"> 
+  <span style="align-items:center;" class="gamburger"><img  src="./fileadmin/templates/img/px.png" alt=""/></span></div>
+<!-- -->
+<ul class="menuheadline scrinAm">
+<li><div><a href="./search.html" id="searchIcon"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div></li>
+<li><div><a href="#" id="EngRu">Ru</a></div></li>
+</ul>
+</div><!--end headlineLR -->
+</div><!--end coverTop BGdark-->  
+
+<!--RRRRRRRRRRRRRRRRRR-->
+  <div class="coverTop RNIMUgreen shadowTopIn"><div class="headline scrinA">
+    <!--common menu-->
+<!--div class="scrinA" -->
+<ul class="commenu">
+<li><div><a href="/about.html">About</a></div>
+<!-- -->
+<div class="subDivAuto zindex125" id="About" >
+<div class="subDivIn RNIMUgreen">
+<div>
+<ul>
+   <li><a href="/academics/continuing-education.html">Continuing Medical Education</a></li>
+<li><a href="/academics/access-courses/phd-school">PhD School</a></li> 
+<li><a href="/research/research-services">Research Services</a> </li>
+<li><a href="https://vestnikrgmu.ru/?lang=en" target=_blank>Research Journal</a></li>
+
+</ul>  
+</div>
+</div><!--end subDivIn-->
+</div><!--end subDiv-->
+</li>
+<li><div><a href="\admission.html">Admission</a></div>
+<!-- -->
+<div class="subDivAuto zindex125" id="Admission" >
+<div class="subDivIn RNIMUgreen">
+<div>  
+<ul>
+<li><a href="\admission\apply-now.html">How to Apply</a></li>
+<li><a href="\admission\preparatory-courses.html">Preparatory Courses</a></li>  
+<li><a href="\admission\programs-and-degrees.html">Programs and Degrees</a></li>  
+<li><a href="\admission\transfer.html">Transfer</a></li>
+<li><a href="\admission\readmission.html">Readmission</a></li>  
+<li><a href="\admission\recognition-of-foreign-education.html">Recognition of Foreign Education</a></li>
+<li><a href="./index_81.html">Tuition & Fees </a></li>
+<li><a href="./index_80.html">Invitation for a Visa</a></li>
+<li><a href="\admission\accommodation.html">Accommodation</a></li>
+
+</ul>    
+</div>
+</div><!--end subDivIn-->
+</div><!--end subDiv-->
+</li>
+<li><div><a href="\education.html">Academics</a></div>
+<!-- -->
+<div class="subDivAuto zindex125" id="Academics" >
+<div class="subDivIn RNIMUgreen">
+<div>  
+<ul>
+<li><a href="\academics\programs-and-degrees">Programs and Degrees</a></li>
+<li><a href="\academics\programs-and-degrees\undergraduate.html">Bachelor and Specialist Degree Programs</a></li>
+<li><a href="\academics\programs-and-degrees\master-degree">Master Degree Programs</a></li>
+<li><a href="\academics\clinical-residency.html">Clinical Residency</a></li>
+<li><a href="\academics\postgraduate-study.html">PhD School</a></li>
+<li><a href="\academics\continuing-education.html">Continuing Medical Education</a></li>
+<li><a href="\academics\schools">Faculties and Schools</a></li>
+<li><a href="\academics\academic-mobility.html">Academic Mobility and Exchange Programs</a></li>
+<li><a href="\academics\video-lectures">Lectures of Leading Specialists</a></li>
+</ul>
+</div>
+</div><!--end subDivIn-->
+</div><!--end subDiv-->
+</li>
+<li><div><a href="\research.html">Research</a></div>
+<div class="subDivAuto zindex125" id="Science" >
+<div class="subDivIn RNIMUgreen">
+<div>
+<ul>
+<li><a href="\research\our-research">Our Research</a></li>
+<li><a href="\research\our-research\publications.html">Publications</a></li>
+<li><a href="\research\research-centers">Research Centers</a></li>
+<li><a href="\research\research-services\pre-clinical">Pre-Clinical Trials</a></li>
+  <li><a href="\research\research-services\clinical-trials">Clinical Trials</a></li>
+<li><a href="https://vestnikrgmu.ru/?lang=en" target=_blank>Research Journal</a></li>
+<li><a href="\research\student-scientific-society.html">Student Scientific Society</a></li>
+<li><a href="\academics\programs-and-degrees\phd-school">PhD School</a></li>
+<li><a href="http://exoplast.ru/en/" target=_blank>University Innovative Company "Exoplast"</a></li> 
+</ul>
+</div>
+</div><!--end subDivIn-->
+</div><!--end subDiv-->
+</li>
+<li><div><a href="\campus-life">Campus Life</a></div>
+  <div class="subDivAuto zindex125" id="Science" >
+<div class="subDivIn RNIMUgreen">
+<div>
+<ul>
+   <li><a href="\campus-life\campus-map\index.html">Campus Map</a></li>
+<li><a href="\campus-life\student-organizations">Student Organizations</a></li>
+  <li><a href="\campus-life\sport">Sport & Recreation</a></li>
+  <li><a href="\campus-life\accomodation">Accommodation</a></li>
+  <li><a href="\campus-life\student-support">Student Support</a></li>
+ </ul>
+</div>
+</div><!--end subDivIn-->
+</div><!--end subDiv-->
+    
+</li>
+<li><div><a href="\contacts.html">Contacts</a></div></li>
+</ul>
+<!-- end common menu-->
+ 
+  </div></div>
+ 
+  <div class="coverTop BGwhite shadowTopInL"><div class="headline scrinA">
+    <!--people menu  scrinA-->
+<!--for 2 line-->
+<ul class="peopmenu">
+<li><div><a href="/prospects.html">Prospects</a></div>
+<div class="subDivAuto zindex125" id="Schools" >
+<div class="subDivIn BGwhite boxShadowA">
+<div>
+<ul>
+<li><a href="\admission\apply-now.html">How to Apply</a></li>
+<li><a href="\admission\transfer">Student Transfer</a></li>
+<li><a href="\admission\preparatory-courses.html">Preparatory Courses</a></li> 
+<li><a href="\admission\programs-and-degrees.html">Programs and Degrees</a></li>  
+<li><a href="\about\accreditation.html">Accreditation</a></li> 
+</ul>
+</div>
+</div><!--end subDivIn-->
+</div><!--end subDiv-->
+</li>
+  
+ 
+  
+<li><div><a href="\students.html">Students</a></div>
+<div class="subDivAuto zindex125" id="Students" >
+<div class="subDivIn BGwhite boxShadowA">
+<div>
+<ul>
+<li><a href="./students\schedule.html">Schedules of Classes and Exams / Course materials</a></li>
+<li><a href="./students\internship.html">Internship</a></li>
+<li><a href="./academics\academic-mobility.html">Academic Mobility and Exchange Programs</a></li>
+<li><a href="./academics\library.html">Library</a></li>
+<li><a href="./academics\video-lectures">Video Lectures</a></li>
+<li><a href="./campus-life\student-support">Student Support</a></li>  
+<li><a href="./campus-life\student-organizations">Student Organizations</a></li>
+<li><a href="./campus-life\accomodation">Accommodation</a></li>
+<li><a href="./index_81.html">Tuition & Fees </a></li>
+<li><a href="./index.php?id=366">Student Scholarships and Awards </a></li>
+<li><a  href="/campus-life\student-support\certificat-request-form">Request for a Certificate On-line</a></li>
+<li> <a href="./about\administrative-policies.html">Administrative Policies </a></li>
+<li><a href="./students\readmission.html">Readmission</a></li>
+</ul>  
+</div>
+</div><!--end subDivIn-->
+</div><!--end subDiv-->
+  </li>
+
+  
+  
+<li><div><a href="./alumni">Alumni</a></div>
+ <div class="subDivAuto zindex125" id="Alumni" >
+<div class="subDivIn BGwhite boxShadowA">
+<div>
+<ul>
+<li><a href="/alumni/alumni-association/index.html">Alumni Association</a></li>
+<li><a href="/academics/clinical-residency.html">Clinical Residency</a></li>
+<li><a href="/academics/access-courses/phd-school">PhD School</a></li>
+  <li><a href="/academics/continuing-education.html">Continuing Medical Education</a></li>
+</ul>
+</div>
+</div><!--end subDivIn-->
+</div><!--end subDiv-->   
+  </li>
+<li><div><a href="./professionals">Professionals</a></div>
+ <div class="subDivAuto zindex125" id="Professionals" >
+<div class="subDivIn BGwhite boxShadowA">
+<div>
+<ul>
+<li><a href="/academics/continuing-education.html">Continuing Medical Education</a></li>
+<li><a href="/academics/access-courses/phd-school">PhD School</a></li> 
+<li><a href="/research/research-services">Research Services</a> </li>
+<li><a href="https://vestnikrgmu.ru/?lang=en" target=_blank>Research Journal</a></li>  
+</ul>
+</div>
+</div><!--end subDivIn-->
+</div><!--end subDiv-->     
+  
+  </li>
+<!--li><div><a href="#15">Visitors</a></div></li-->
+</ul>
+<!--end div for 2 line-->
+
+
+  </div></div>
+</div><!--end fixTopBlock-->
+<!--IIIIIIIII-->
+<div class="cover stdPage pageW">
+<div class="headlineBrCr">
+<ul class="breadCrumb"><li class="active sub liFirst">
+<a href="/" title="Home" class="active sub liFirst">Home</a>
+</li>
+<li>/</li>
+<li class="active sub">
+<a href="research/" title="Research" class="active sub">Research</a>
+</li>
+<li>/</li>
+<li class="active current sub">
+Our Research
+</li>
+<li>/</li>
+<li class="active current sub">
+Research Aims and Achievements
+</li></ul>
+</div><!--end headlineLR-->
+<div><!--TYPO3SEARCH_begin--><!--TYPO3SEARCH_end--></div> 
+ <!--IIIIIIIII--> 
+<div class="lineA">  
+<div class="leftA"><!--TYPO3SEARCH_begin--><!--TYPO3SEARCH_end--></div><!---end leftA-->
+<div class="centrA"><!--TYPO3SEARCH_begin-->
+<div id="c541" class="frame frame-default frame-space-before-none frame-space-after-small"><header><h2 class="">
+				Research Aims and Achievements
+			</h2></header></div>
+
+<div id="c542" class="frame frame-default frame-space-before-none frame-space-after-small"><!-- blockmemu --><section class="blockmenu"><ul><li class="active current hasSubPage liFirst">
+Research Aims and Achievements
+</li><li><a href="research/our-research/publications/" title="Key Recent Publications">Key Recent Publications</a></li><li class="hasSubPage liLast"><a href="research/our-research/research-news/" title="Research News" class="hasSubPage liLast">Research News</a></li></ul></section></div>
+
+<div id="c544" class="frame frame-default frame-space-before-none frame-space-after-none"><div class="ce-textpic ce-left ce-intext"><div class="ce-gallery" data-ce-columns="1" data-ce-images="1"><div class="ce-row"><div class="ce-column"><figure class="image"><img class="image-embed-item" src="fileadmin/templates/img/pageImg/aims.jpg" width="600" height="400" alt="" /></figure></div></div></div><div class="ce-bodytext"><p>Pirogov Medical University is a leading Russian medical and biomedical research and innovation center. Our scientific activity is aimed primarily at practical health care and at the same time at obtaining new knowledge about the mechanisms of human diseases.</p><p>We actively cooperate with scientific institutes of Russian Academy of Science, as well as research and clinical centers, and biotechnological and pharmaceutical companies around the world.</p><p>Main areas of research includes oncology, neurobiology, allergies and immunology, medical genetics, regenerative medicine, medical microbiology and infectious diseases.</p><p>The University takes an active part in conducting clinical and preclinical studies of new drugs, biomedical cell products and medical devices.</p><p>We are developing our own scientific journal, which accepts articles on clinical medicine and biomedical sciences. The journal is published in Russian and English and is included in the Scopus and WoS.</p></div></div></div>
+
+<div id="c552" class="frame frame-default frame-space-before-none frame-space-after-none"><div class="ce-textpic ce-center ce-above"><div class="ce-bodytext"><p>We pay great attention to the early involvement of our students in research. The University’s Student Scientific Society unites more than 80 scientific groups working on various topics in the field of therapy, pediatrics, surgery, and biomedicine. Students receive not only additional clinical practice, but learn to observe, conduct research and formulate their results in accordance with accepted practice. Graduates can continue their career in science at the University PhD School.</p><p>Scientific and practical conferences organized by the University for reseachers as well as for students and young scientists create a convenient platform for presenting new research and exchange of experience. Meetings with leading scientists of the world, constantly organized by the University, allow them to keep abreast of the latest achievements of biomedicine and medicine.</p></div></div></div>
+
+<div id="c553" class="frame frame-default row linkcover frame-space-before-none frame-space-after-none"><a id="c549"></a><!-- Blocklink --><!--section class="blocklink"><div class="linkcover row"><f:for each="" as="obj"--><!--link--><div class="col-md-12 col-xxl-8"><div class="std"><a href="research/research-services/pre-clinical/" target="_self"><div class='linkTXT'>Pre-Clinical Trials</div></a></div></div><!--end link--><!--/f:for></div></section--><a id="c550"></a><!-- Blocklink --><!--section class="blocklink"><div class="linkcover row"><f:for each="" as="obj"--><!--link--><div class="col-md-12 col-xxl-8"><div class="std"><a href="research/research-services/clinical-trials/" target="_self"><div class='linkTXT'>Clinical Trials</div></a></div></div><!--end link--><!--/f:for></div></section--><a id="c551"></a><!-- Blocklink --><!--section class="blocklink"><div class="linkcover row"><f:for each="" as="obj"--><!--link--><div class="col-md-12 col-xxl-8"><div class="std"><a href="science/research-journal/" target="_self"><div class='linkTXT'>Our Scientific Journal</div></a></div></div><!--end link--><!--/f:for></div></section--></div>
+
+<div id="c557" class="frame frame-default row linkcover frame-space-before-none frame-space-after-small"><a id="c554"></a><!-- Blocklink --><!--section class="blocklink"><div class="linkcover row"><f:for each="" as="obj"--><!--link--><div class="col-md-12 col-xxl-8"><div class="std"><a href="research/student-scientific-society/" target="_self"><div class='linkTXT'>Student Research</div></a></div></div><!--end link--><!--/f:for></div></section--><a id="c555"></a><!-- Blocklink --><!--section class="blocklink"><div class="linkcover row"><f:for each="" as="obj"--><!--link--><div class="col-md-12 col-xxl-8"><div class="std"><a href="academics/programmes-and-degrees/phd-school/" target="phd-school"><div class='linkTXT'>PhD School</div></a></div></div><!--end link--><!--/f:for></div></section--><a id="c556"></a><!-- Blocklink --><!--section class="blocklink"><div class="linkcover row"><f:for each="" as="obj"--><!--link--><div class="col-md-12 col-xxl-8"><div class="std"><a href="academics/video-lectures/" target="_self"><div class='linkTXT'>Video Lections</div></a></div></div><!--end link--><!--/f:for></div></section--></div>
+
+<div id="c543" class="frame frame-default frame-layout-1 frame-space-before-none frame-space-after-none"><div class="ce-textpic ce-center ce-above"><div class="ce-bodytext"><h3>Last Research News</h3></div></div></div>
+
+<div id="c539" class="frame frame-default frame-space-before-none frame-space-after-large"><!--TYPO3SEARCH_begin A--><div class="coverheadlineInfo"><div class="headlineInfo"><div class="stackBlockHeader"><!--div class="smallBlockStart"><h2 class="HstackBlock">NEWS Pirogov Medical University</h2></div--><div class="stackBlock" id="news-container-539"><!--html  data-namespace-typo3-fluid="true"--><!--
+  =====================
+    Partials/List/Item.html 
+--><div class="sizesmallBlock"><div class="smallBlock boxShadowA"><div class="news-img-wrap smallBlockIMG"><a title="The victory of our young scientists" href="research/our-research/our-research/section-page/news/the-victory-of-our-young-scientists/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=29c9c3306ac269611fc49701ea6b699e"><img src="fileadmin/templates/img/news/2021/IMG_5867.jpg"/></a></div><div class="smallBlockINmain"><div itemprop="description" class="maskbottom"><h3>The victory of our young scientists</h3><!-- teaser --><div class="teaser-text">
+    
+    
+        On January 18, the Moscow Government published a list of the winners of the annual competition for the prize for young scientists of the capital. Among them are two employees of the Pirogov Russian National Research Medical University:  Maxim Abakumov and...
+      
+    
+    </div></div><!-- --><a class="more" title="The victory of our young scientists" href="research/our-research/our-research/section-page/news/the-victory-of-our-young-scientists/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=29c9c3306ac269611fc49701ea6b699e">
+            Read more
+    </a><div class="newslistdate"><time itemprop="datetime" datetime="2021-01-29">
+                    01/29/2021
+                </time></div><!--div class="category">
+     
+     
+        
+                News
+            
+    
+        
+                Research News
+            
+    
+        
+                University Achievements
+            
+    
+    
+       </div--></div><!-- end smallBlockINmain--></div></div><!--end sizesmallBlock- --><!--/html--><!--html  data-namespace-typo3-fluid="true"--><!--
+  =====================
+    Partials/List/Item.html 
+--><div class="sizesmallBlock"><div class="smallBlock boxShadowA"><div class="news-img-wrap smallBlockIMG"><a title="Role of T-cell immunity in the fight against COVID-19" href="research/our-research/our-research/section-page/news/the-role-of-t-cell-immunity-in-the-fight-against-covid-19/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=62d4dd5714f8bbb5e50957c057474303"><img src="fileadmin/templates/img/news/1_lrg.jpg"/></a></div><div class="smallBlockINmain"><div itemprop="description" class="maskbottom"><h3>Role of T-cell immunity in the fight against COVID-19</h3><!-- teaser --><div class="teaser-text">
+    
+    
+        Understanding the architecture of the immune response to SARS-CoV-2 is critical to tackling the COVID-19 pandemic. The National Medical Research Center of Hematology with the participation of the Center for High-Precision Editing and Genetic Technologies...
+      
+    
+    </div></div><!-- --><a class="more" title="Role of T-cell immunity in the fight against COVID-19" href="research/our-research/our-research/section-page/news/the-role-of-t-cell-immunity-in-the-fight-against-covid-19/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=62d4dd5714f8bbb5e50957c057474303">
+            Read more
+    </a><div class="newslistdate"><time itemprop="datetime" datetime="2020-12-03">
+                    12/03/2020
+                </time></div><!--div class="category">
+     
+     
+        
+                News
+            
+    
+        
+                Research News
+            
+    
+    
+       </div--></div><!-- end smallBlockINmain--></div></div><!--end sizesmallBlock- --><!--/html--><!--html  data-namespace-typo3-fluid="true"--><!--
+  =====================
+    Partials/List/Item.html 
+--><div class="sizesmallBlock"><div class="smallBlock boxShadowA"><div class="news-img-wrap smallBlockIMG"><a title="The University’s Scientific Clinical Institute of Pediatrics was one of the first in Russia where gene therapy with Zolgensma was given to children with spinal muscular atrophy" href="research/our-research/our-research/section-page/news/the-university-s-scientific-clinical-institute-of-pediatrics-was-one-of-the-first-in-russia-where-ge/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=2bfc2772a37ccc7ebab3cef92279dace"><img src="fileadmin/templates/img/events/anons_velt.jpg"/></a></div><div class="smallBlockINmain"><div itemprop="description" class="maskbottom"><h3>The University’s Scientific Clinical Institute of Pediatrics was one of the first in Russia where gene therapy with Zolgensma was given to children with spinal muscular atrophy</h3><!-- teaser --><div class="teaser-text">
+    
+    
+        In April 2020, for the first time, gene therapy of patients with spinal muscular atrophy (SMA) was carried out on the territory of the Russian Federation using the drug AVXS-101 (registered in the USA as Zolgensma®).
+This means that in our country for...
+      
+    
+    </div></div><!-- --><a class="more" title="The University’s Scientific Clinical Institute of Pediatrics was one of the first in Russia where gene therapy with Zolgensma was given to children with spinal muscular atrophy" href="research/our-research/our-research/section-page/news/the-university-s-scientific-clinical-institute-of-pediatrics-was-one-of-the-first-in-russia-where-ge/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=2bfc2772a37ccc7ebab3cef92279dace">
+            Read more
+    </a><div class="newslistdate"><time itemprop="datetime" datetime="2020-04-20">
+                    04/20/2020
+                </time></div><!--div class="category">
+     
+     
+        
+                News
+            
+    
+        
+                Research News
+            
+    
+        
+                University Achievements
+            
+    
+    
+       </div--></div><!-- end smallBlockINmain--></div></div><!--end sizesmallBlock- --><!--/html--><!--html  data-namespace-typo3-fluid="true"--><!--
+  =====================
+    Partials/List/Item.html 
+--><div class="sizesmallBlock"><div class="smallBlock boxShadowA"><div class="news-img-wrap smallBlockIMG"><a title="December 19, 2019. Lecture by Professor Sebastian Kotofan" href="research/our-research/our-research/section-page/news/december-19-2019-lecture-by-professor-sebastian-kotofan/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=9b74ed5c5bb053fdaf4468eec3cfb40c"><img src="fileadmin/templates/img/news/Lection19-12-19-3.jpg"/></a></div><div class="smallBlockINmain"><div itemprop="description" class="maskbottom"><h3>December 19, 2019. Lecture by Professor Sebastian Kotofan</h3><!-- teaser --><div class="teaser-text">
+    
+    
+        The lecture by the Sebastian Kotofan, professor of the Clinical Medical and Scientific College of Mayo (USA), on the topic "Recent Modern Discoveries about the Anatomy of the Face" was held in auditorium A1 of our University. The lecture was attended by...
+      
+    
+    </div></div><!-- --><a class="more" title="December 19, 2019. Lecture by Professor Sebastian Kotofan" href="research/our-research/our-research/section-page/news/december-19-2019-lecture-by-professor-sebastian-kotofan/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=9b74ed5c5bb053fdaf4468eec3cfb40c">
+            Read more
+    </a><div class="newslistdate"><time itemprop="datetime" datetime="2019-12-19">
+                    12/19/2019
+                </time></div><!--div class="category">
+     
+     
+        
+                News
+            
+    
+        
+                Student Scientific Society News
+            
+    
+        
+                Research News
+            
+    
+    
+       </div--></div><!-- end smallBlockINmain--></div></div><!--end sizesmallBlock- --><!--/html--></div><!--end stackBlock><!--div class="smallBlock shadowBl"><div class="smallBlockINmain"--><div><!--/div></div--><!-- end smallBlock--><!-- end paginate--></div><!--end stackBlock id--></div><!--end stackBlockHeader--></div><!--end headlineInfo--></div><!--end coverheadlineInfo--><!--TYPO3SEARCH_end A--></div>
+<!--TYPO3SEARCH_end--></div><!--end centrA-->  
+<div class="rightA"><!--TYPO3SEARCH_begin--><!--TYPO3SEARCH_end--> </div><!--end rightA-->   
+</div>  
+<div class="hfill"></div>  
+<div class="footer BGdark">
+  <!--TYPO3SEARCH_begin--><!--TYPO3SEARCH_end-->
+ <div class="fontSmall address colorLinkLtGr">
+<div class="row">  
+<div class="col-md-12">  
+All rights reserved <br />
+© 2020 Pirogov Russian National Research Medical University<br /> Ostrovitianov str. 1, Moscow, 117997, Russia<br />E-mail: rsmu@rsmu.ru<br />
+</div>
+<div class="col-md-12 flex footerLeftCol" style="" >  
+  <!---->
+<div style="" class="flex socnetworkline">  
+  <div class="linebottom flex">
+  <div class="txt">Connect With Us</div>
+<div class="scrinAlways facebooklink"  ><a  href="https://www.facebook.com/Pirogov-Russian-National-Research-Medical-University-452412755317014/?modal=admin_todo_tour"  target="_blank"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div>
+<div class="scrinAlways instlink"  ><a  href="https://www.instagram.com/rnrmu_global/"  target="_blank"><img  src="./fileadmin/templates/img/px.png" alt=""/></a></div>
+  </div>
+  </div>
+   <!---->
+  <div style="text-align:right;">Some vector graphics in our website is designed by Freepik [www.freepik.com]</div>
+   <div style="text-align:right;">
+       <a href="/website-information/cookie-policy" >Cookie Policy</a>
+     | <a href="/website-information/accessibility" >Accessibility</a>
+     | <a href="/website-information/privacy-statement" >Privacy Statement</a>
+    </div>
+</div>
+</div>
+</div>
+ 
+</div><!--end footer-->  
+</div><!---end cover pageW--> 
+<div id="allMenuRepl" class="dispnone"><div class="RNIMUgreen">
+   <!--common menu-->
+<!--div class="scrinA" -->
+<ul class="commenu">
+<li><div><a href="/about.html">About</a></div>
+<!-- -->
+<div class="subDivAuto zindex125" id="About" >
+<div class="subDivIn RNIMUgreen">
+<div>
+<ul>
+   <li><a href="/academics/continuing-education.html">Continuing Medical Education</a></li>
+<li><a href="/academics/access-courses/phd-school">PhD School</a></li> 
+<li><a href="/research/research-services">Research Services</a> </li>
+<li><a href="https://vestnikrgmu.ru/?lang=en" target=_blank>Research Journal</a></li>
+
+</ul>  
+</div>
+</div><!--end subDivIn-->
+</div><!--end subDiv-->
+</li>
+<li><div><a href="\admission.html">Admission</a></div>
+<!-- -->
+<div class="subDivAuto zindex125" id="Admission" >
+<div class="subDivIn RNIMUgreen">
+<div>  
+<ul>
+<li><a href="\admission\apply-now.html">How to Apply</a></li>
+<li><a href="\admission\preparatory-courses.html">Preparatory Courses</a></li>  
+<li><a href="\admission\programs-and-degrees.html">Programs and Degrees</a></li>  
+<li><a href="\admission\transfer.html">Transfer</a></li>
+<li><a href="\admission\readmission.html">Readmission</a></li>  
+<li><a href="\admission\recognition-of-foreign-education.html">Recognition of Foreign Education</a></li>
+<li><a href="./index_81.html">Tuition & Fees </a></li>
+<li><a href="./index_80.html">Invitation for a Visa</a></li>
+<li><a href="\admission\accommodation.html">Accommodation</a></li>
+
+</ul>    
+</div>
+</div><!--end subDivIn-->
+</div><!--end subDiv-->
+</li>
+<li><div><a href="\education.html">Academics</a></div>
+<!-- -->
+<div class="subDivAuto zindex125" id="Academics" >
+<div class="subDivIn RNIMUgreen">
+<div>  
+<ul>
+<li><a href="\academics\programs-and-degrees">Programs and Degrees</a></li>
+<li><a href="\academics\programs-and-degrees\undergraduate.html">Bachelor and Specialist Degree Programs</a></li>
+<li><a href="\academics\programs-and-degrees\master-degree">Master Degree Programs</a></li>
+<li><a href="\academics\clinical-residency.html">Clinical Residency</a></li>
+<li><a href="\academics\postgraduate-study.html">PhD School</a></li>
+<li><a href="\academics\continuing-education.html">Continuing Medical Education</a></li>
+<li><a href="\academics\schools">Faculties and Schools</a></li>
+<li><a href="\academics\academic-mobility.html">Academic Mobility and Exchange Programs</a></li>
+<li><a href="\academics\video-lectures">Lectures of Leading Specialists</a></li>
+</ul>
+</div>
+</div><!--end subDivIn-->
+</div><!--end subDiv-->
+</li>
+<li><div><a href="\research.html">Research</a></div>
+<div class="subDivAuto zindex125" id="Science" >
+<div class="subDivIn RNIMUgreen">
+<div>
+<ul>
+<li><a href="\research\our-research">Our Research</a></li>
+<li><a href="\research\our-research\publications.html">Publications</a></li>
+<li><a href="\research\research-centers">Research Centers</a></li>
+<li><a href="\research\research-services\pre-clinical">Pre-Clinical Trials</a></li>
+  <li><a href="\research\research-services\clinical-trials">Clinical Trials</a></li>
+<li><a href="https://vestnikrgmu.ru/?lang=en" target=_blank>Research Journal</a></li>
+<li><a href="\research\student-scientific-society.html">Student Scientific Society</a></li>
+<li><a href="\academics\programs-and-degrees\phd-school">PhD School</a></li>
+<li><a href="http://exoplast.ru/en/" target=_blank>University Innovative Company "Exoplast"</a></li> 
+</ul>
+</div>
+</div><!--end subDivIn-->
+</div><!--end subDiv-->
+</li>
+<li><div><a href="\campus-life">Campus Life</a></div>
+  <div class="subDivAuto zindex125" id="Science" >
+<div class="subDivIn RNIMUgreen">
+<div>
+<ul>
+   <li><a href="\campus-life\campus-map\index.html">Campus Map</a></li>
+<li><a href="\campus-life\student-organizations">Student Organizations</a></li>
+  <li><a href="\campus-life\sport">Sport & Recreation</a></li>
+  <li><a href="\campus-life\accomodation">Accommodation</a></li>
+  <li><a href="\campus-life\student-support">Student Support</a></li>
+ </ul>
+</div>
+</div><!--end subDivIn-->
+</div><!--end subDiv-->
+    
+</li>
+<li><div><a href="\contacts.html">Contacts</a></div></li>
+</ul>
+<!-- end common menu-->
+ 
+   <!--people menu  scrinA-->
+<!--for 2 line-->
+<ul class="peopmenu">
+<li><div><a href="/prospects.html">Prospects</a></div>
+<div class="subDivAuto zindex125" id="Schools" >
+<div class="subDivIn BGwhite boxShadowA">
+<div>
+<ul>
+<li><a href="\admission\apply-now.html">How to Apply</a></li>
+<li><a href="\admission\transfer">Student Transfer</a></li>
+<li><a href="\admission\preparatory-courses.html">Preparatory Courses</a></li> 
+<li><a href="\admission\programs-and-degrees.html">Programs and Degrees</a></li>  
+<li><a href="\about\accreditation.html">Accreditation</a></li> 
+</ul>
+</div>
+</div><!--end subDivIn-->
+</div><!--end subDiv-->
+</li>
+  
+ 
+  
+<li><div><a href="\students.html">Students</a></div>
+<div class="subDivAuto zindex125" id="Students" >
+<div class="subDivIn BGwhite boxShadowA">
+<div>
+<ul>
+<li><a href="./students\schedule.html">Schedules of Classes and Exams / Course materials</a></li>
+<li><a href="./students\internship.html">Internship</a></li>
+<li><a href="./academics\academic-mobility.html">Academic Mobility and Exchange Programs</a></li>
+<li><a href="./academics\library.html">Library</a></li>
+<li><a href="./academics\video-lectures">Video Lectures</a></li>
+<li><a href="./campus-life\student-support">Student Support</a></li>  
+<li><a href="./campus-life\student-organizations">Student Organizations</a></li>
+<li><a href="./campus-life\accomodation">Accommodation</a></li>
+<li><a href="./index_81.html">Tuition & Fees </a></li>
+<li><a href="./index.php?id=366">Student Scholarships and Awards </a></li>
+<li><a  href="/campus-life\student-support\certificat-request-form">Request for a Certificate On-line</a></li>
+<li> <a href="./about\administrative-policies.html">Administrative Policies </a></li>
+<li><a href="./students\readmission.html">Readmission</a></li>
+</ul>  
+</div>
+</div><!--end subDivIn-->
+</div><!--end subDiv-->
+  </li>
+
+  
+  
+<li><div><a href="./alumni">Alumni</a></div>
+ <div class="subDivAuto zindex125" id="Alumni" >
+<div class="subDivIn BGwhite boxShadowA">
+<div>
+<ul>
+<li><a href="/alumni/alumni-association/index.html">Alumni Association</a></li>
+<li><a href="/academics/clinical-residency.html">Clinical Residency</a></li>
+<li><a href="/academics/access-courses/phd-school">PhD School</a></li>
+  <li><a href="/academics/continuing-education.html">Continuing Medical Education</a></li>
+</ul>
+</div>
+</div><!--end subDivIn-->
+</div><!--end subDiv-->   
+  </li>
+<li><div><a href="./professionals">Professionals</a></div>
+ <div class="subDivAuto zindex125" id="Professionals" >
+<div class="subDivIn BGwhite boxShadowA">
+<div>
+<ul>
+<li><a href="/academics/continuing-education.html">Continuing Medical Education</a></li>
+<li><a href="/academics/access-courses/phd-school">PhD School</a></li> 
+<li><a href="/research/research-services">Research Services</a> </li>
+<li><a href="https://vestnikrgmu.ru/?lang=en" target=_blank>Research Journal</a></li>  
+</ul>
+</div>
+</div><!--end subDivIn-->
+</div><!--end subDiv-->     
+  
+  </li>
+<!--li><div><a href="#15">Visitors</a></div></li-->
+</ul>
+<!--end div for 2 line-->
+
+
+</div></div>
+<script src="typo3conf/ext/slickcarousel/Resources/Public/JavaScript/jquery.min.js?1539690850" type="text/javascript"></script>
+<script src="typo3conf/ext/slickcarousel/Resources/Public/JavaScript/slick.min.js?1539690850" type="text/javascript"></script>
+<script src="typo3conf/ext/slickcarousel/Resources/Public/JavaScript/progressbar.min.js?1539690850" type="text/javascript"></script>
+<script src="typo3conf/ext/powermail/Resources/Public/JavaScript/Libraries/jquery.datetimepicker.min.js?1558449454" type="text/javascript"></script>
+<script src="typo3conf/ext/powermail/Resources/Public/JavaScript/Libraries/parsley.min.js?1558449454" type="text/javascript"></script>
+<script src="typo3conf/ext/powermail/Resources/Public/JavaScript/Powermail/Tabs.min.js?1558449454" type="text/javascript"></script>
+<script src="typo3conf/ext/powermail/Resources/Public/JavaScript/Powermail/Form.min.js?1558449454" type="text/javascript"></script>
+
+
+</body>
+</html>

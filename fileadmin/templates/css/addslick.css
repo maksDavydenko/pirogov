@@ -1,0 +1,27 @@
+.mainPage ul.slick-dots {
+  bottom: -2.5rem;
+}
+
+
+/*sm*/
+@media (max-width: 576px) {
+.mainPage .slick-container {display:none;}
+ 
+}
+/*md
+@media (max-width: 768px) {
+.slick-container {display:none;}
+  }*/
+/*lg
+@media (max-width: 992px) {
+}*/
+@media (max-width: 1920px) {
+.mainPage .slick-slider{
+    height:400px;
+}
+.mainPage .slick-list{height:100%;}
+.mainPage .slick-track{height:100%;}
+.mainPage .slick-track figure{height:100%;  display: -ms-flexbox; display:flex; flex-direction: column; justify-content:center; align-items:center; overflow:hidden;}
+/*.slick-track figure img{height:100%; width:auto;}*/
+.mainPage .slick-slider .slick-img{width:auto;}
+}

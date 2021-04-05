@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1" id="Слой_1" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="117.371" height="117.371"
+	 viewBox="0 0 117.371 117.371" overflow="visible" enable-background="new 0 0 117.371 117.371" xml:space="preserve">
+<path fill="#FFFFFF" d="M117.506,59.027c0-32.43-26.275-58.706-58.706-58.706S0.094,26.597,0.094,59.027
+	c0,29.301,21.468,53.588,49.533,57.997V75.998H34.714V59.027h14.913V46.093c0-14.712,8.759-22.839,22.174-22.839
+	c6.424,0,13.143,1.146,13.143,1.146v14.44h-7.405c-7.291,0-9.565,4.526-9.565,9.168v11.019h16.281l-2.604,16.971H67.973v41.025
+	C96.039,112.615,117.506,88.328,117.506,59.027z"/>
+</svg>

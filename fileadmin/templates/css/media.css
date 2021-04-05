@@ -1,0 +1,160 @@
+/*.fsStandart div.smallBlock:nth-child(n+8){display:none;}*/
+/* .fsStandart .coverTop+.cover {padding-top:10px; margin-top:0px;}*/
+/*.fsStandart .fixTopBlock+div+.cover {padding-top:10px; margin-top:0px;}*/
+.fsStandart .fixTopBlock+.cover {padding-top:10px; margin-top:0px;}
+.stdPage .centrA{min-width: 320px; max-width: 1280px;  margin: 10px; width: 100%;}
+.mainPage .centrA{width:100%; }
+.mainPage .leftA{min-width:auto; width:10px; }
+.mainPage .rightA{min-width:auto; width:10px; }
+
+@media screen and (max-width: 760px) {
+ul.breadCrumb {flex-wrap:wrap;}
+}
+
+@media screen and (min-width: 1460px) {
+.stdPage .centrA{width: 100%; padding:0px 10px;}/* padding:0px 20px; */
+.stdPage .leftA{-webkit-flex-basis: 260px;
+flex-basis: 260px;
+  flex-grow: 3;flex-shrink: 10;
+ /* min-width:260px;*/ 
+  min-width:100px;
+  max-width:600px;}
+.stdPage .rightA{-webkit-flex-basis: 260px;
+flex-basis: 260px;
+  flex-grow: 3;flex-shrink: 10;
+  min-width:100px; max-width:600px;}
+}
+@media screen (max-width: 1460px) {
+.stdPage .leftA{   flex-grow: 1;  flex-basis: 260px;}
+.stdPage .rightA{  flex-shrink: 10;flex-basis: 150px;}
+}
+@media screen and (min-width: 1280px) {
+
+ .fsStandart ul.peopmenu{ flex-wrap:wrap;}
+ /*.fsStandart ul.menuheadline > li > div > a img{height:22px;}*/
+ .fsStandart .fixTopBlock+.cover {padding-top:170px; margin-top:0;}
+/*.fsStandart .fixTopBlock+div+.cover {padding-top:170px; margin-top:0px;}*/
+/* .fsSandart #sveden {padding:10px 14px; font-size:70%; line-height: 1.1em;}
+.fsSandart #sveden:hover {padding:8px 12px; font-size:74%}*/
+.fsStandart #minLogoTitleW {font-size:140%;}
+}
+/*------------------*/
+@media screen and (min-width: 2500px) {
+    .fsStandart .mainPage .headlineInfo div.sizesmallBlock:nth-child(n+8){display:none;}
+    .fsStandart .mainPage .headlineInfo .sizesmallBlock{flex-basis:14.2%;}
+    .fsStandart .stdPage .headlineInfo .sizesmallBlock{flex-basis:25%;}
+.fsStandart #minLogoTitleW {font-size:140%;}
+}
+@media screen and (min-width: 2000px) and (max-width: 2499px) {
+    .fsStandart .mainPage .headlineInfo  div.sizesmallBlock:nth-child(n+7){display:none;}
+    .fsStandart .mainPage .headlineInfo .sizesmallBlock{flex-basis:16.6%;}
+    .fsStandart .stdPage .headlineInfo .sizesmallBlock{flex-basis:25%;}
+.fsStandart #minLogoTitleW {font-size:140%;}
+}
+@media screen and (min-width: 1600px) and (max-width: 1999px) {
+    .fsStandart .mainPage  .headlineInfo div.sizesmallBlock:nth-child(n+6){display:none;}
+    .fsStandart .mainPage .headlineInfo .sizesmallBlock{flex-basis:20%;}
+    .fsStandart .stdPage .headlineInfo .sizesmallBlock{flex-basis:25%;}
+.fsStandart #minLogoTitleW {font-size:140%;}
+}
+@media screen and (min-width: 1280px) and (max-width: 1599px) {
+    .fsStandart .mainPage  .headlineInfo  div.sizesmallBlock:nth-child(n+5){display:none;}
+    .fsStandart .mainPage .headlineInfo .sizesmallBlock{flex-basis:25%;}
+    .fsStandart .stdPage .headlineInfo .sizesmallBlock{flex-basis:25%;}
+.fsStandart #minLogoTitleW {font-size:140%;}
+}
+@media screen and (min-width: 800px) and (max-width: 1279px) {
+    .fsStandart .mainPage  .headlineInfo div.sizesmallBlock:nth-child(n+4){display:none;}
+    .fsStandart .mainPage .headlineInfo .sizesmallBlock{flex-basis:33.3%;}
+    .fsStandart .stdPage .headlineInfo .sizesmallBlock{flex-basis:33.3%;}
+.fsStandart #minLogoTitleW {font-size:140%;}
+}
+@media screen and (min-width: 440px) and (max-width: 799px) {
+    .fsStandart .mainPage  .headlineInfo div.sizesmallBlock:nth-child(n+3){display:none;}
+    .fsStandart .mainPage .headlineInfo .sizesmallBlock{flex-basis:50%;}
+    .fsStandart .stdPage .headlineInfo .sizesmallBlock{flex-basis:50%;}
+.fsStandart #minLogoTitleW {font-size:140%;}
+}
+@media screen and (max-width: 440px) {
+    .fsStandart .mainPage  .headlineInfo  div.sizesmallBlock:nth-child(n+2){display:none;}
+    .fsStandart .mainPage .headlineInfo  .sizesmallBlock{flex-basis:100%;}
+    .fsStandart .stdPage .headlineInfo .sizesmallBlock{flex-basis:100%;}
+.fsStandart #minLogoTitleW {font-size:140%;}
+}
+
+ /*----------------*/
+@media screen and (max-width: 1279px) {
+ .fsStandart ul.peopmenu{ flex-wrap:wrap;}
+/* .fsStandart ul.menuheadline > li > div > a img{height:22px;}*/
+ .fsStandart .fixTopBlock+.cover {margin-top:160px;}
+/*.fsStandart .fixTopBlock+div+.cover {padding-top:170px; margin-top:0px;}*/
+/* .fsSandart #sveden {padding:10px 14px; font-size:70%; line-height: 1.1em;}
+.fsSandart #sveden:hover {padding:8px 12px; font-size:74%}*/
+}
+
+@media screen and (max-width: 1000px) {
+ .fsStandart ul.peopmenu{ flex-wrap:wrap;}
+/* .fsStandart ul.menuheadline > li > div > a img{height:22px;}*/
+/*.fsStandart .fixTopBlock+div+.cover {padding-top:170px; margin-top:0px;}*/
+ .fsStandart .fixTopBlock+.cover {margin-top:160px;}
+
+/* .fsSandart #sveden {padding:10px 14px; font-size:70%; line-height: 1.1em;}
+.fsSandart #sveden:hover {padding:8px 12px; font-size:74%}*/
+}
+@media screen and (max-width: 768px) {
+.fsStandart .infoStack {flex-wrap:wrap;}
+.fsStandart .scrinA {display: none;}
+.fsStandart .scrinB {  display: -ms-flexbox; display: flex;  display: -webkit-flex;}
+.fsStandart .fixTopBlock+.cover {margin-top:60px;}
+/*.fsStandart .fixTopBlock+div+.cover {padding-top:60px; margin-top:0px;}*/
+}
+@media screen and (max-width: 610px) {
+ /*.fsStandart .smallBlock{flex-basis:100%;}*/
+.leftA {display: none;}
+.rightA{display: none;}
+.fsStandart .scrinAm {display: none;}
+.fsStandart .scrinBm {  display: -ms-flexbox; display: flex;  display: -webkit-flex;}
+/*.fsStandart ul.menuheadline {height:44px;}/*{align-self:flex-start;}*/
+.fsStandart .fixTopBlock+.cover {margin-top:110px;}
+/*.fsStandart .fixTopBlock+div+.cover {padding-top:110px; margin-top:0px;}*/
+}
+@media screen and (max-width: 380px) {
+.fsStandart .scrinAmm {display: none;}
+.fsStandart .scrinBmm {  display: -ms-flexbox; display: flex;  display: -webkit-flex;}
+.fsStandart #minLogoTitleW {font-size:110%;}
+}
+/*---------------*/   
+@media screen and (min-width: 768px) and (max-width: 1000px) {
+ .fsStandart .ugol{ height:570px; width:768px; }
+/*.fsStandart ul.menuheadline > li > div > a {width:100%; font-size:90%; padding:12px 18px;}
+.fsStandart ul.menuheadline > li > div > a img{height:12px;width:32px;}  */
+}
+@media screen and (min-width: 610px) and (max-width: 768px) {
+.fsStandart .ugol{ height:410px; width:610px;}
+.fsStandart .titleUn { font-size:106%;}
+/*.fsStandart ul.menuheadline > li > div > a {width:100%; font-size:90%; padding:12px 18px;}
+.fsStandart ul.menuheadline > li > div > a img{height:12px;width:32px;} */
+.fsStandart .scrinBmB {display: flex;  display: -webkit-flex;}
+}
+
+@media screen and (min-width: 380px) and (max-width: 610px) {
+.fsStandart .ugol{ height:410px; width:380px;}
+.fsStandart .titleUn { font-size:96%;}  
+/*.fsStandart ul.menuheadline > li > div > a {width:100%; font-size:90%; padding:12px 18px;}
+.fsStandart ul.menuheadline > li > div > a img{height:12px;width:32px;}  */
+/*.fsStandart .scrinBmBmm {display: flex;  display: -webkit-flex;} */
+}
+
+@media screen and (min-width: 320px) and (max-width: 380px) {
+.fsStandart .ugol{ height:410px; width:320px;}
+.fsStandart .titleUn {font-size:96%;}     
+/*.fsStandart ul.menuheadline > li > div > a {width:100%; font-size:90%; padding:12px 18px;}
+.fsStandart ul.menuheadline > li > div > a img{height:12px;width:32px;}  */
+}
+
+@media screen  and (max-width: 320px) {
+.fsStandart .ugol{ height:410px; width:320px;}
+.fsStandart .titleUn {font-size:86%;}
+/*.fsStandart ul.menuheadline > li > div > a {width:100%; font-size:90%; padding:12px 18px;}
+.fsStandart ul.menuheadline > li > div > a img{height:12px;width:32px;}  */
+}

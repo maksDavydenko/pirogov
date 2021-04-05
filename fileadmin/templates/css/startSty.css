@@ -1,0 +1,24 @@
+.fsStandart .scrinAlways {  display: -ms-flexbox; display: flex; display: -webkit-flex;}
+.fsStandart .scrinA {  display: -ms-flexbox; display: flex;     display: -webkit-flex;}
+.fsStandart .scrinAm{  display: -ms-flexbox; display: flex;     display: -webkit-flex;}
+.fsStandart .scrinAmm{  display: -ms-flexbox; display: flex;     display: -webkit-flex;}
+.fsStandart .scrinB {display: none;}
+.fsStandart .scrinBm {display: none;}
+.fsStandart .scrinBmm {display: none;}
+/*.fsStandart .addToppadd{margin-top:290px;}*/
+.fsStandart #TopImgSize {overflow:hidden;}
+.fsStandart .TopImgSizePlus{height:700px;}
+.fsStandart .TopImgSizeMinus{height:230px;}
+.fsStandart #logoImg {height:56px; width:40px;  background-size:contain; margin: 30px 0px 100px 0px;}/*--style background-repeat:no-repeat; background-position:center;*/
+.fsStandart ul.menuheadline > li > div > a {width:100%; font-size:80%; padding:4px 10px;}
+.fsStandart ul.menuheadline > li > div > a img{height:26px;}
+.fsStandart #sveden {padding:10px 14px; font-size:70%; line-height: 1.1em;}
+.fsStandart #sveden:hover {padding:7px 12px; font-size:74%}
+/*----------------*/
+.fsStandart ul.peopmenu{flex-wrap:nowrap; }
+.fsStandart .ugol{ height:520px; width:630px;}
+.fsStandart .titleUn { font-size:120%;}
+/*.fsStandart .scrinBmB {display: flex;  display: -webkit-flex;}*/
+.fsStandart .scrinBmB {display: none;}
+/*--*/
+/*.fsStandart .smallBlock { font-size:90%;}/* padding: 5px  5px  5px 0px; max-height:330px; */ 

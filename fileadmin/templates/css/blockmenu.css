@@ -1,0 +1,116 @@
+.blockmenu {font-size:1rem;/*background-color:#fff;*/ margin:0px; /*margin-bottom:1.8rem; padding:1rem;*/ /*box-shadow: 0 2px 2px rgba(0, 0, 0, .3);*/ width:100%;  display: -ms-flexbox; display: flex; }
+.blockmenu ul{padding:0px; margin:0px;  display: -ms-flexbox; display:flex; flex-direction: row; width:100%; }
+.blockmenu ul li {  display: -ms-flexbox; display:flex; align-items: center; list-style-type:none; padding:0.3rem 1rem; margin:1px;flex:0 0 19%; background-color:#fff; flex-wrap:nowrap; justify-content: center;  border-radius:0.5rem; border: 1px solid #ddd; min-height:3.4rem; }
+.blockmenu ul li.active{background-color:#007984; color:white; text-align: center;}
+.blockmenu ul li a {width:auto;text-align:center; text-decoration:none; color:#007984; }
+.blockmenu ul li a:hover{color:#ff0000;rgba(230,230,230,0.8);} 
+@media (max-width: 992px) {.blockmenu ul li {flex: 0 0 49%;}}
+
+.blockmenu ul {flex-wrap: wrap; justify-content: center; /*space-between*/}
+@media (max-width: 576px) {
+.blockmenu ul li {flex: 0 0 100%; justify-content: flex-start; }
+.blockmenu ul li a {width:100%; text-align:left;}
+}
+
+.blocklink .linkcover div div.std{width:100%;}
+.blocklink .linkcover div div.std a{flex: 0 0 100%;}
+
+.blocklink {font-size:1rem;/*background-color:#fff;*/ margin:1.0rem 0 0 0; /*margin-bottom:1.8rem; padding:1rem;*/ min-height:4rem;/*box-shadow: 0 2px 2px rgba(0, 0, 0, .3);*/ width:100%;  display: -ms-flexbox; display: flex; flex-wrap:nowrap; justify-content: center; overflow:hidden; }
+.blocklink+div{/*padding:0px; margin:0px;*/ display:flex; flex-direction: row; /*width:100%;*/ /*flex-wrap:nowrap;*/ justify-content: center;}
+.blocklink div.linkcover {width:100%;}
+.blocklink div.linkcover div.std{width:100%;}
+.blocklink div.large{font-weight:800; font-size:1.4rem;}
+/*for .blocklinkCard*/ 
+.blocklink > div > div > div > a{  display: -ms-flexbox; display:flex; text-decoration:none; align-items:center; padding:0; margin:0.1rem 0 0.1rem 0; background-color:#fff; color:#007984; letter-spacing:0.02rem;  border-radius:0.5rem; border: 1px solid #aaa/*#007984*/;  overflow: hidden; width:100%;}
+/*for .blocklink*/
+.blocklink > div > div > a{  display: -ms-flexbox; display:flex; text-decoration:none; flex: 0 0 38%; align-items:center; padding:0; margin:1px; background-color:#fff; color:#007984; letter-spacing:0.02rem;  border-radius:0.5rem; border: 1px solid #007984;  overflow: hidden;}
+.blocklink div a:visited{color:#007984/*#20B2AA*/; }
+.blocklink div a:hover{color:#20B2AA; }
+/*.blocklink div a {width:auto;text-align:center; text-decoration:none; color:#007984; }*/ 
+.blocklink .linkcover > div {  display: -ms-flexbox; display:flex; margin-bottom:7px; margin-top:7px;}
+.blocklink .linkcover div .std {  display: -ms-flexbox; display:flex; align-self:stretch;}
+
+.blocklink .linkcover div .std a div.imgCover{  display: -ms-flexbox; display:flex; align-self:stretch; height:inherit; width:50%; flex:0 0 50%; justify-content: center; overflow: hidden;}
+.blocklink .linkcover div .std a div.imgCover img{/*display:flex; align-self:stretch;*/ 
+max-height:12rem;
+}
+.blocklink div .std a .linkTXT{margin:0.8rem 1.5rem; width:100%; text-align: center; font-weight:400;}
+.blocklink div .std a div.imgCover+.linkTXT{ text-align: left;}
+/*.blocklink div a div.imgCover img {}*/
+
+/*.blocklink div .stddociconH a div.imgCover {width:50%; flex:0 0 50%; overflow: hidden;}*/
+.blocklink .linkcover div .stddocicon {  display: -ms-flexbox; display:flex; align-self:stretch; width:100%;}
+.blocklink div .stddocicon a{  display: -ms-flexbox; display:flex; flex-direction:column; align-self:stretch;}
+.blocklink div .stddocicon a div.imgCover {  display: -ms-flexbox; display:flex; justify-content: center; overflow: hidden;}
+.blocklink div .stddocicon a div.imgCover img{/*width:2.8rem;*/ height:3.8rem; margin:1.4rem 0 0.5rem 0; }
+.blocklink div .stddocicon a .linkTXT {margin:0.5rem 1rem 1rem 1rem; text-align:center;font-weight:400;}
+
+/*.blocklink div a:hover{color:red;rgba(230,230,230,0.8);}*/
+@media (max-width: 992px) {.blocklink div a {flex: 0 0 100%;}}
+
+.blockmenu ul {flex-wrap: wrap; justify-content: center; /*space-between*/}
+/*@media (max-width: 576px) {
+.blockmenu ul li {flex: 0 0 100%; justify-content: flex-start; }
+.blockmenu ul li a {width:100%; text-align:left;}
+}*/
+/*RED LINK class="liFirst"  red  #c41e3a*/
+.frame-layout-1 .blockmenu .liFirst {/*border-color:;*/ background-color: #ffc30f; font-weight:500;}
+.frame-layout-1 .blocklink .row {justify-content: center;}
+
+/*-----for insert record---*/
+.linkcover div div.std{width:100%;}
+.linkcover div div.std a{flex: 0 0 100%;}
+
+/*.blocklink { margin:1.0rem 0 0 0;  min-height:4rem; width:100%; display: flex; flex-wrap:nowrap; justify-content: center; overflow:hidden; }*/
+ div.linkcover{/*padding:0px; margin:0px;*/  display: -ms-flexbox; display:flex; flex-direction: row; /*width:100%;*/ /*flex-wrap:nowrap;*/ justify-content: center;}
+/*div.linkcover {width:100%;}*/
+ div.linkcover div.std{width:100%;}
+div.large{font-weight:800; font-size:1.4rem;}
+/*for .blocklinkCard*/
+div.linkcover > div > div > a{  display: -ms-flexbox; display:flex; text-decoration:none; align-items:center; padding:0; margin:0.1rem 0 0.1rem 0; background-color:#fff; color:#007984; letter-spacing:0.02rem;  border-radius:0.5rem; border: 1px solid #ccc/*#007984*/;  overflow: hidden; width:100%;}
+/*for .blocklink*/
+ div.linkcover > div > a{  display: -ms-flexbox; display:flex; text-decoration:none; flex: 0 0 38%; align-items:center; padding:0; margin:1px; background-color:#fff; color:#007984; letter-spacing:0.02rem;  border-radius:0.5rem; border: 1px solid #007984;  overflow: hidden;}
+.linkcover div a:visited{color:#007984/*#20B2AA*/; }
+.linkcover div a:hover{color:#20B2AA; }
+/*.blocklink div a {width:auto;text-align:center; text-decoration:none; color:#007984; }*/
+ .linkcover > div {  display: -ms-flexbox; display:flex; margin-bottom:7px; margin-top:7px;}
+ .linkcover div .std {  display: -ms-flexbox; display:flex; align-self:stretch;}
+
+ .linkcover div .std a div.imgCover{  display: -ms-flexbox; display:flex; align-self:stretch; height:inherit; width:50%; flex:0 0 50%; justify-content: center; overflow: hidden;}
+.linkcover div .std a div.imgCover img{/*display:flex; align-self:stretch;*/
+max-height:12rem;
+}
+ div.linkcover .std a .linkTXT{margin:0.8rem 1.5rem; width:100%; text-align: center; justify-content: center;  font-weight:400;}
+ div.linkcover .std a div.imgCover+.linkTXT{ text-align: left;}
+/*.blocklink div a div.imgCover img {}*/
+
+/*.blocklink div .stddociconH a div.imgCover {width:50%; flex:0 0 50%; overflow: hidden;}*/
+ div.linkcover div .stddocicon {  display: -ms-flexbox; display:flex; align-self:stretch; width:100%;}
+ div.linkcover div .stddocicon a{  display: -ms-flexbox; display:flex; flex-direction:column; align-self:stretch;}
+ div.linkcover div .stddocicon a div.imgCover {  display: -ms-flexbox; display:flex; justify-content: center; overflow: hidden; height:6rem;}
+ div.linkcover div .stddocicon a div.imgCover img{/*width:2.8rem;*/ height:3.8rem; margin:1.4rem 0 0.5rem 0; }
+ div.linkcover div .stddocicon a .linkTXT {margin:0.5rem 1rem 1rem 1rem; text-align:center;font-weight:400;}
+/*--*/
+ div.linkcover div .stddociconselectA {  display: -ms-flexbox; display:flex; align-self:stretch; width:100%;}
+ div.linkcover div .stddociconselectA a{ border-radius:0.5rem; box-sizing:border-box; border: 3px solid #c41e3a; color:#c41e3a;  display: -ms-flexbox; display:flex; flex-direction:column; align-self:stretch; /*background-color:#ff2b2b/*#ff0033/*#ff7029/*#ffc375/*#ffdc7a/*#ffcf48/*#99ff99/*#42ff9e/*#0fff83*/;}
+ div.linkcover div .stddociconselectA a:hover{color:#ff0033; border-color:#ff0033;}
+ div.linkcover div .stddociconselectA a div.imgCover {  display: -ms-flexbox; display:flex; justify-content: center; overflow: hidden;}
+ div.linkcover div .stddociconselectA a div.imgCover img{/*width:2.8rem;*/ height:3.8rem; margin:1.4rem 0 0.5rem 0; }
+ div.linkcover div .stddociconselectA a .linkTXT {margin:0.5rem 1rem 1rem 1rem; text-align:center;font-weight:400;}
+
+ div.linkcover div .stdselectA {  display: -ms-flexbox; display:flex; align-self:stretch; width:100%;}
+ div.linkcover div .stdselectA a{ border-radius:0.5rem; box-sizing:border-box;  color:#007984;border-color:#007984; background-color: #ffc30f;  display: -ms-flexbox; display:flex; flex-direction:column; align-self:stretch;/*background-color:#ff2b2b/*#ff0033/*#ff7029/*#ffc375/*#ffdc7a/*#ffcf48/*#99ff99/*#42ff9e/*#0fff83*/;}
+ div.linkcover div .stdselectA a:hover{color:#006974; border-color:#006974; }
+ div.linkcover div .stdselectA a div.linkTXT {margin:1rem 1rem 1rem 1rem; text-align:center;font-weight:400;}
+
+ div.linkcover div a span.redselect{color: #c41e3a;}
+ div.linkcover div a:hover span.redselect{color: #ff0033;}
+
+ div.linkcover div{  display: -ms-flexbox; display:flex}
+ div.linkcover div .large {align-self:stretch; width:100%;}
+ div.linkcover div .large a{  display: -ms-flexbox; display:flex; flex-direction:column; align-self:stretch; padding:1.7rem; line-height: 1.7rem;}
+
+/*.blocklink div a:hover{color:red;rgba(230,230,230,0.8);}*/
+@media (max-width: 992px) {.linkcover div a {flex: 0 0 100%;}}
+
+

@@ -1,0 +1,145 @@
+.mainTXT > .frame{width:100%;}
+/*section.accordion{padding-left:0.35rem;}*/
+.accordion .row > .row{margin-left:0; margin-right:0;} 
+.accordion .openTXT{  display: -ms-flexbox; display: flex;}
+.accordion .noneTXT{display: none;}
+.accordion a.plusminus{outline: none;}
+
+
+.accordion { width:100%; margin:0.8rem 0 0.8rem 0;  font-size:1rem;}
+/*.stdrow*/
+.accordion .stdrow .rightAngleBottomRadius{  border:1px solid #ddd; border-bottom:none; border-radius:5px 5px 0 0;}
+.accordion .stdrow .AngleBottomRadius{  border:1px solid #ddd; border-radius: 5px; }
+.accordion .stdrow div.col-24 > .accordion .row div.col-24 .rightAngleBottomRadius{border-top:none;}
+.accordion .stdrow div.col-24 + div.col-24 .AngleBottomRadius{border-top:none;}
+
+.accordion .stdrow a.plusminus{  display: -ms-flexbox; display:flex; align-items:center; background-color:#fff; /*overflow: hidden;*/
+  width:100%;
+  font-weight: 300;
+  font-size:115%;
+  padding-right:10px;
+  text-decoration: none;
+}
+
+
+.accordion .stdrow  a.plusminus.AngleBottomRadius{color: #555;}
+.accordion .stdrow  a.plusminus.rightAngleBottomRadius{color:#007984; font-weight:400;}
+
+.accordion .stdrow   a.plusminus:hover {color: #007984;font-weight:400; }
+.accordion + .accordion .stdrow  a.plusminus{border-top:none;}
+.accordion .stdrow  a.plusminus .flagPlus {font-size: 120%;}
+.accordion .stdrow  a.plusminus .flagMinus { font-size: 170%;}
+.accordion .stdrow  a.plusminus .flagPlus,  .accordion a.plusminus .flagMinus{
+border-right :1px solid #ddd;
+/* padding: 3px 5px;*/
+flex:0 0 50px;
+margin-right:10px;
+line-height: 2.4rem;
+align-self:stretch;
+width:50px;  
+justify-content:center;
+text-align: center;
+}
+.accordion .stdrow  a.plusminus .accordHeaderWrapper {  display: -ms-flexbox; display:flex; font-size:1.0rem; align-items:flex-start;
+    line-height: 1.6rem; margin:0.5rem 0;
+ }
+/* .rowA */
+/*.accordion .rowA .col-24 {padding:0 20px 0 20px; }*/
+.accordion .rowA .col-24 {padding:0px; }
+.accordion .rowA {padding: 0.5rem 0 0.5rem 0; justify-content:center;}
+.accordion .rowA .rightAngleBottomRadius{ border:none; /* border:1px solid rgba(0, 121, 132, 0.4); border-bottom:none; border-radius:5px 5px 0 0;*/}
+.accordion .rowA .AngleBottomRadius{ border:none; /*border:1px solid rgba(0, 121, 132, 0.4); border-radius: 5px; */}
+/*.accordion .rowA div.col-24 > .accordion .row div.col-24 .rightAngleBottomRadius{border-top:none;}
+.accordion .rowA div.col-24 + div.col-24 .AngleBottomRadius{border-top:none;}*/
+
+.accordion .stepfon{background-color:#007984;height:4rem; width:4rem;   display: -ms-flexbox; display:flex; justify-content:center; border-radius:5px;align-items:center;font-size:2.6rem;font-weight:800; color:#fff;flex: 0 0 4rem;opacity: 0.9;
+padding:0.3rem 0 0.3rem 0;    
+}
+
+.accordion .rowA a.plusminus{  display: -ms-flexbox; display:flex; align-items:center; background-color:#fff; /*overflow: hidden;*/
+  width:100%;
+  font-weight: 700;
+  font-size:1.8rem;
+  padding-right:10px;
+  text-decoration: none;
+  /*padding:0.3rem 0 0.3rem 0; */
+}
+
+.accordion > .rowA > .row{margin-top:0.5rem;margin-bottom:0.5rem;}
+
+.accordion .rowA  a.plusminus .AngleBottomRadius{color:#007984;}
+.accordion .rowA  a.plusminus .rightAngleBottomRadius{color:#007984; }
+.accordion .rowA  a.plusminus {color: #007984; font-weight:200; /*height:3rem;   overflow:hidden; background-color:rgba(0, 121, 132, 0.05);*/ }
+.accordion .rowA  a.plusminus:hover {color: #007984; /*font-weight:300;*/   }
+.accordion + .accordion .rowA  a.plusminus{border-top:none; }
+/*.accordion .rowA  a.plusminus .flagPlus  {font-size: 120%;  }
+.accordion .rowA  a.plusminus .flagMinus {font-size: 170%;}*/
+.accordion .rowA  a.plusminus .flagPlus, .accordion .rowA a.plusminus .flagMinus{
+  color:#fff;
+  font-size:2.6rem;
+    font-weight: 300;
+  border-right :none;
+/*border-right :1px solid rgba(0, 121, 132, 0.4);*/
+/* padding: 3px 5px;*/
+
+flex:0 0 4rem;
+margin-right:0rem;
+line-height: 2.0rem;
+align-self:stretch;
+width:4rem;  
+justify-content:center;
+  align-items:flex-start;
+text-align: center;
+/*  background-color:rgba(0, 121, 132, 0.9);*/
+}
+.accordion .rowA  a.plusminus .accordHeaderWrapper {  display: -ms-flexbox; display:flex; font-size:1.5rem; align-items:flex-start;
+    line-height: 1.6rem; margin:0.5rem 0; font-weight:400; }
+.accordion .rowA   a.plusminus:hover .accordHeaderWrapper{ font-size:1.6rem;  }
+/*--------------------
+.accordion a.plusminus .accordHeaderWrapper
+{color: #007984;
+text-transform: uppercase;
+  font-size:4.2rem; line-height: 1.8rem;
+}
+
+.accordion a.plusminus .flagPlus {
+background-color: #007984; width:3rem; height:3rem;
+}
+.accordion a.plusminus .flagMinus {
+background-color: #007984; width:3rem; height:3rem;
+}
+/*---- ----------------*/
+.accInfoBlock{  display: -ms-flexbox; display:flex; flex-direction:row;}
+.stdrow .accInfoBlock{background-color:#f9f9f9; border:1px solid #ddd; border-radius: 0 0 5px 5px;margin: 0;}
+.rowA .accInfoBlock{/*background-color:#f9f9f9; border:1px solid #ddd; border-radius: 0 0 5px 5px;margin: 0;*/}
+
+.accordion .text-wrapper{margin:0; padding: 15px 15px 15px 34px;  }
+.accordion .link-wrapper{margin:0; padding: 7.5px 7.5px 7.5px 7.5px; list-style-type:none;display:flex; flex-flow: row wrap; align-content:flex-start; }
+
+.accordion .link-wrapper li a {  display: -ms-flexbox; display:flex; padding: 0;}
+.accordion .link-wrapper li a {  display: -ms-flexbox; display:flex; text-decoration: none; width:100%; align-items:center; border:1px solid #ddd; border-radius: 5px; min-height:5rem; margin:0.2rem 0.2rem; background-color:#fff; padding:1rem; color:#007984;font-weight:300;}
+.accordion .link-wrapper li a:hover {color:#00494f;}
+.accordion .link-wrapper li a.doc {background-image:url(../img/fileICO/fileDOCa.svg); background-repeat: no-repeat;background-position:center left; background-size:2rem 2.76rem; background-origin:content-box; }
+.accordion .link-wrapper li a.pdf {background-image:url(../img/fileICO/filePDFa.svg); background-repeat: no-repeat;background-position:center left; background-size:2rem 2.76rem; background-origin:content-box; }
+
+.accordion .link-wrapper li a .linkTXT{ margin-left:3rem;}
+
+.accordion .link-wrapper li > div{  display: -ms-flexbox; display:flex; padding: 0; }
+.accordion .link-wrapper li > div {  display: -ms-flexbox; display:flex; text-decoration: none; width:100%; align-items:center; border:1px solid #ddd; border-radius: 8px; min-height:5rem; margin:0.2rem 0.2rem; background-color:#fff; padding:1rem; color:#888;font-weight:300;}
+
+.accordion .link-wrapper li > div .linkTXT{ margin-left:3rem;}
+
+
+.fsStandart .centrA section.accordion div.text-wrapper ul  li {position:relative;
+    list-style-type: none; /* Убираем маркеры у списка */
+    padding:0.2rem 0;
+   }
+.fsStandart .centrA section.accordion div.text-wrapper ul li:before {
+  color:#007984;
+    content: "\2022";
+  position:absolute;
+  left:-0.6rem;
+}
+
+
+

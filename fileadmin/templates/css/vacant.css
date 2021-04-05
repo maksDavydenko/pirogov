@@ -1,0 +1,66 @@
+.vacCommon, .vacCommon2 {
+    display: -ms-flexbox;
+    
+    display: -webkit-flex;
+    
+    display: flex;
+    width: 100%;
+  
+    align-items: stretch;
+    -ms-flex-wrap: nowrap;
+    -webkit-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    
+  
+  }  
+  
+
+ 
+.izm_conteiner {
+    -ms-flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;  
+    flex-direction: row;
+}  
+    
+ 
+.vacCommon:nth-child(2n+1) .obraml {
+    background: #eeeeee;
+   }   
+  
+.vacCommon:nth-child(2n) .obraml {
+    background: #dedede;
+   }  
+
+
+.dopfon { /* background: #007984; color: #fff; */ background: #dedede;}
+/* .dopfon .obraml div { font-size: 100%; }    */
+      
+.curs_nachert {font-style: italic; }  
+
+ 
+.vacCommon .obraml { border-left: 2px solid #fff; text-align: center; display: flex; border-bottom: 2px solid #fff;}  
+  
+.vacwdth1 {width: 15%;  min-width: 6rem; flex-shrink:2; flex-grow: 2;}
+.vacwdth2 {width: 45%;  min-width: 8rem;flex-shrink:3; flex-grow: 3;}
+.vacwdth3 {width: 20%; min-width: 4rem; flex-shrink:1; flex-grow: 1;}
+.vacwdth4 {width: 40%; min-width: 8rem; flex-shrink:1; flex-grow: 1;}
+.vacwdth5 {width: 40%; min-width: 8rem;  flex-shrink:1; flex-grow: 1;}
+  
+.vacwdth45 {width: 80%; min-width: 16rem; flex-shrink:1; flex-grow: 1; }
+ 
+  
+.vacwdth345 {width: 40%; min-width: 20rem; flex-shrink:1; flex-grow: 1;}
+.wdthpoln345 {width: 100%; min-width: 20rem;}  
+.wdthpoln {width: 100%; min-width: 34rem;}  
+.vnesh {width: 100%; min-width: 34rem;}  
+  
+.vacCommon .obraml, .vacCommon2 .obraml {background: inherit; color: inherit;}
+  
+ .vacCommon:nth-child(1) .obraml {
+    background: inherit; color: inherit;
+   }
+ 
+.vacCommon .obraml div {  align-self: center;  width: 100%; padding: 10px; padding: 5px; padding: 5px;/* font-size: 90%; */ }  
+
+.chislkod1, .chislnaim1, .profesvac1, .naprvac1, .bachvac1, .vac_numberBRpriem, .vac_numberBMpriem {display: none; }

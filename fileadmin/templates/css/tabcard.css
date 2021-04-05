@@ -1,0 +1,54 @@
+/*----------------------------------*/
+.frame-layout-0 .tabcardstd {  display: -ms-flexbox; display:flex; justify-content:center; flex-direction:column;}
+.tabcardstd {/*background-color:red;*/ width:100%; }
+.tabcardstd .rowA {padding: 0.5rem 0 0.5rem 0; justify-content:center;}
+.tabcardstd .col1 {  display: -ms-flexbox; display:flex; justify-content:center; height:auto;flex: 0 0 auto;}
+.tabcardstd .stepfon{background-color:#007984;height:4rem; width:4rem;  display: -ms-flexbox; display:flex; justify-content:center; border-radius:5px;align-items:center;font-size:2.6rem;font-weight:800; color:#fff;flex: 0 0 4rem;opacity: 0.9; 
+padding:0.3rem 0 0.3rem 0;    
+}
+.shadowL{box-shadow: 0 2px 2px rgba(0, 0, 0, .3);}
+.tabcardstd .col2 {  display: -ms-flexbox; display:flex; flex-direction:column; height:auto;flex: 0 0 auto; justify-content:center;   }
+.tabcardstd .col2 .bottomblock{border-top:1px solid #007984; width:auto; /*padding: 0.3rem 3rem 0 0;*/padding: 0.3rem 0rem 0 0;
+   align-self:center;  justify-content:center; text-align:center;}
+.tabcardstd .col2 .topblock{width:auto; padding:0.4rem 0 0.4rem 0;  align-self:center; text-align:center;}
+
+
+/*-----------------------------*/
+/*sx*/
+@media (max-width: 576px) {
+  .swsm {display: none;}
+  .hideswsm{  display: -ms-flexbox; display:flex;}
+}
+/*sm*/
+@media (min-width: 576px) {
+  .swsm {  display: -ms-flexbox; display: flex;}
+  .hideswsm{display:none;}
+.tabcardstd .col2 .bottomblock{text-align:left; align-self:flex-start; padding-right:3rem;}
+.tabcardstd .col2 .topblock{ text-align:left; align-self:center;align-self:flex-start;}
+}
+/*md*/  
+@media (max-width: 768px) {.swmd {display: none;}}
+@media (min-width: 768px) {
+    .swmd {  display: -ms-flexbox; display: flex;}
+    .hideswmd{display:none;}
+
+}
+/*lg*/
+@media (max-width: 992px) {.swlg {display: none;}}
+@media (min-width: 992px) {
+      .swlg {  display: -ms-flexbox; display: flex;}
+      .hideswlg{display:none;}
+}
+/*xl*/
+@media (max-width: 1400px) {.swxl {display: none;}}
+@media (min-width: 1400px) {
+      .swxl {  display: -ms-flexbox; display: flex;}
+      .hideswxl{display:none;}
+}
+
+/*xxl*/
+@media (max-width: 1600px) {.swxxl {display: none;}}
+@media (min-width: 1600px) {
+      .swxxl {  display: -ms-flexbox; display: flex;}
+      .hideswxxl{display:none;}
+}
