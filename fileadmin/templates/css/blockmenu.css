@@ -118,7 +118,7 @@ max-height:12rem;
 #userIcon,
 #emailIcon {
     margin-right: 17px;
-    padding: 5px 12px;
+    padding: 5px 12px 5px 0;
 }
 #userIcon img {
     width: 40px;
@@ -127,4 +127,13 @@ max-height:12rem;
 
 #emailIcon img{
     height: 40px;
+}
+
+.contacts-block {
+    display: flex;
+    justify-content: space-between;
+}
+.map-wrap {
+   margin-left: auto;
+    width: 754px;
 }
