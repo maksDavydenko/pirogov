@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="123" height="108" viewBox="-0.348 -0.583 123 108" enable-background="new -0.348 -0.583 123 108" xml:space="preserve">
+<defs>
+</defs>
+<path fill="#000" d="M61.592,35.741c-20.937,0-37.909,17.727-37.909,17.727s16.973,17.729,37.909,17.729
+	c20.936,0,37.908-17.729,37.908-17.729S82.527,35.741,61.592,35.741z M61.592,69.151c-8.662,0-15.683-7.021-15.683-15.682
+	s7.021-15.682,15.683-15.682c8.661,0,15.682,7.021,15.682,15.682S70.253,69.151,61.592,69.151z"/>
+<circle fill="#000" cx="61.592" cy="53.469" r="4.228"/>
+</svg>
