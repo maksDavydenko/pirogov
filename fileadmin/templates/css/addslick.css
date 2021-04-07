@@ -6,6 +6,9 @@
 /*sm*/
 @media (max-width: 576px) {
 .mainPage .slick-container {display:none;}
+.slick-form {
+  display: none;
+}
  
 }
 /*md
@@ -77,7 +80,7 @@
   font-size: 22px;
   text-align: left;
   margin-bottom: 10px;
-  font-family: Katibeh
+  font-family: Katibeh;
 }
 
 .slick-form__input {
@@ -104,5 +107,7 @@
   border-radius: 4px;
   cursor: pointer;
   font-family: Lato;
+  font-weight: 800;
+  font-size: 18px;
 }
 
