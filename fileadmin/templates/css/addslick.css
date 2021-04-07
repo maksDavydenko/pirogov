@@ -40,8 +40,8 @@
   height: 100%;
   width: 304px;
   padding: 35px 26px;
-  background: rgba(0, 75, 81, 0.7);
-  border: 2px solid #fff;
+  background: rgba(0, 75, 81, 0.5);
+  border: 2px solid rgba(230,230,230,0.5);
   box-sizing: border-box;
   z-index: 2;
   color: #fff;

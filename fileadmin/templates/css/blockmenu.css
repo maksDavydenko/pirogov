@@ -130,11 +130,12 @@ max-height:12rem;
 }
 
 .contacts-block {
+    margin-top: 60px;
     display: flex;
     justify-content: space-between;
 }
 .contacts-block__info {
-    max-width: 554px;
+    max-width: 560px;
 }
 .map-wrap {
    margin-left: auto;
