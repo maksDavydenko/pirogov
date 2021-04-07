@@ -6,6 +6,9 @@
 /*sm*/
 @media (max-width: 576px) {
 .mainPage .slick-container {display:none;}
+.slick-form {
+  display: none;
+}
  
 }
 /*md
