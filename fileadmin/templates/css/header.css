@@ -1,3 +1,28 @@
 .fsStandart #allMenuReplB > span {
     margin: 0 0 0 20px;
 }
+
+@media screen and (min-width: 1070px) and (max-width: 1279px) {
+    #programm-degree div.sizesmallBlock:nth-child(n+4){display:block;}
+    #programm-degree .sizesmallBlock{flex-basis:25%;}
+    #programm-degree .sizesmallBlock .sizesmallBlock{flex-basis:25%;}
+    
+}
+@media screen and (min-width: 541px) and (max-width: 1070px) {
+    #programm-degree div.sizesmallBlock:nth-child(n+3){display:block;}
+    #programm-degree .sizesmallBlock{flex-basis:50%;}
+    #programm-degree .sizesmallBlock .sizesmallBlock{flex-basis:50%;}
+    #programm-degree .stackBlock{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+@media screen and (max-width: 540px) {
+    /* .fsStandart .mainPage  .headlineInfo  div.sizesmallBlock:nth-child(n+2){display:block;} */
+    /* #programm-degree .sizesmallBlock{flex-basis:100%;}
+    #programm-degree .sizesmallBlock .sizesmallBlock{flex-basis:100%;} */
+    #programm-degree .stackBlock{
+        display: flex;
+      flex-direction: column;
+    }
+}
