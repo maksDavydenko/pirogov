@@ -131,6 +131,7 @@ max-height:12rem;
 
 .contacts-block {
     margin-top: 60px;
+    padding: 0 7px;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
