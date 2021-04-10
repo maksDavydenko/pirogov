@@ -6,7 +6,7 @@
     display: block !important;
 }
 
-body {
+html {
     overflow-x: hidden;
 }
 
@@ -119,6 +119,7 @@ body {
     #userIcon img {
         width: 30px;
         height: 30px;
+        margin-right: -8px;
     }
     #emailIcon img {
         width: 30px;
