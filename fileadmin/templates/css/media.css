@@ -53,7 +53,7 @@ flex-basis: 260px;
 }
 @media screen and (min-width: 1600px) and (max-width: 1999px) {
     .fsStandart .mainPage  .headlineInfo div.sizesmallBlock:nth-child(n+6){display:none;}
-    .fsStandart .mainPage .headlineInfo .sizesmallBlock{flex-basis:25%;}
+    .fsStandart .mainPage .headlineInfo .sizesmallBlock{flex-basis:20%;}
     .fsStandart .stdPage .headlineInfo .sizesmallBlock{flex-basis:25%;}
 .fsStandart #minLogoTitleW {font-size:140%;}
 }

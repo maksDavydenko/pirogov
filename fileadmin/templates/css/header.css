@@ -5,6 +5,10 @@
 .sizesmallBlock {
     display: block !important;
 }
+
+body {
+    overflow-x: hidden;
+}
 @media screen and (min-width: 1071px) and (max-width: 1279px) {
     #programm-degree .sizesmallBlock:nth-child(n+4){display:block;}
     #programm-degree .sizesmallBlock{flex-basis:25%;}
@@ -12,6 +16,10 @@
     
 }
 @media screen and (min-width: 541px) and (max-width: 1070px) {
+
+    .fsStandart #minLogoTitleW {
+        font-size: 110%;
+    }
     #programm-degree .sizesmallBlock:nth-child(n+3){display:block;}
     #programm-degree .sizesmallBlock{flex-basis:50%;}
     #newsBlock .sizesmallBlock{flex-basis:50%;}
@@ -24,6 +32,50 @@
         flex-wrap: wrap;
     }
 }
+
+@media screen and (max-width: 890px){
+    .social-btn-container {
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        margin-right: 0;
+        top: 50px;
+        right: 0;
+        padding: 5px 8px;
+    }
+
+    .social-btn-container > div {
+        margin-right: 0;
+        margin-bottom: 5px;
+    } 
+    
+}
+
+@media screen and (max-width: 770px){
+   .headlineLR .menuheadline--desktop {
+        display: none;
+    }
+    .headlineLR .scrinBmB {
+        display: none;
+    }
+   .leftA {display: none;}
+.rightA{display: none;}
+.fsStandart .scrinAm {display: none;}
+.fsStandart .scrinBm {  display: -ms-flexbox; display: flex;  display: -webkit-flex;}
+/*.fsStandart ul.menuheadline {height:44px;}/*{align-self:flex-start;}*/
+.fsStandart .fixTopBlock+.cover {margin-top:110px;}
+
+.menuheadline-search {
+    order: 2
+}
+.fsStandart .scrinBm ul.menuheadline {
+    flex-grow: 0;
+}
+.scrinAlways-logo {
+    margin-left: 10px;
+}
+}
+
 @media screen and (max-width: 540px) {
     #programm-degree .stackBlock{
         display: flex;
@@ -34,4 +86,71 @@
         display: flex;
         flex-wrap: wrap;
     }
+
+    #userIcon, #emailIcon {
+        margin-right: 0;
+    }
+
+    #userIcon img {
+        width: 30px;
+        height: 30px;
+    }
+    #emailIcon img {
+        width: 30px;
+        height: 30px;
+    }
+        
+    .fsStandart ul.menuheadline > li > div > a {
+        font-size: 80%;
+        padding: 15px 12px;
+    }   
+
+    .fsStandart ul.menuheadline > li > div > a img {
+        height: 15px;
+    }
+
+    #userIcon, #emailIcon {
+        padding: 9px 12px 9px 0;
+    }
+
+}
+
+@media screen and (max-width: 450px){
+  
+.fsStandart ul.menuheadline > li > div > a {
+    font-size: 60%;
+    padding: 5px 12px;
+}
+.fsStandart ul.menuheadline > li > div > a img {
+    height: 10px;
+}
+.social-btn-container {
+    padding: 6px;
+}
+
+.social-btn-container a img {
+    width: 25px;
+}
+.fsStandart .headlineLR {
+    height: 30px;
+}
+#userIcon, #emailIcon {
+    padding: 2px 8px 2px 0;
+}
+.social-btn-container {
+    top: 30px;
+}
+
+.fsStandart #minLogoTitleW {
+    font-size: 90%;
+    padding: 5px 6px 2px 0px;
+}
+.fsStandart #minLogoW img {
+    height: 30px;
+    width: 30px;
+}
+.scrinAlways-logo {
+    margin-left: 14px;
+}
+   
 }
