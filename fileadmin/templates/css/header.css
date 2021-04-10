@@ -9,6 +9,10 @@
 body {
     overflow-x: hidden;
 }
+
+@media screen and (min-width: 1600px) and (max-width: 1999px) {
+    .fsStandart .mainPage .headlineInfo .sizesmallBlock{flex-basis:25%;}
+}
 @media screen and (min-width: 1071px) and (max-width: 1279px) {
     #programm-degree .sizesmallBlock:nth-child(n+4){display:block;}
     #programm-degree .sizesmallBlock{flex-basis:25%;}
