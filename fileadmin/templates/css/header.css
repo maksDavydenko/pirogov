@@ -102,6 +102,9 @@ html {
 .slick-form {
     padding: 20px 17px;
 }
+.colorStandart ul.menuheadline > li > div > a {
+    border-right: none;
+}
 }
 
 @media screen and (max-width: 540px) {
@@ -180,7 +183,7 @@ html {
     height: 10px;
 }
 .social-btn-container {
-    padding: 6px;
+    padding: 5px;
 }
 
 .social-btn-container a img {
