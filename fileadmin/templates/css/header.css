@@ -85,9 +85,15 @@ body {
 .contacts-block__info header h2 {
     text-align: center;
 }
-.contact-wrap__item:first-of-type {
+.contact-item:first-of-type {
     margin-bottom: 10px;
     margin-right: 15px;
+}
+.contact-item:last-child {
+    margin-top: 10px;
+}
+.contact-item__info {
+    align-items: center;
 }
 }
 
@@ -131,6 +137,7 @@ body {
     .contact-item__icon-wrap {
         width: 24px;
         height: 24px;
+        margin-right: 8px;
     }
     .contact-item__icon-wrap .contact-item__icon {
         width: 15px;
@@ -147,10 +154,10 @@ body {
         line-height: 18px;
     }
     .contact-item__text {
-        font-size: 12px;
+        font-size: 11px;
         line-height: 13px;
     }
-    .contact-item__text:first-child{
+    .contact-item:first-child{
         margin-bottom: 0;
     }
 }
@@ -158,7 +165,7 @@ body {
 @media screen and (max-width: 450px){
   
 .fsStandart ul.menuheadline > li > div > a {
-    font-size: 60%;
+    font-size: 57%;
     padding: 5px 12px;
 }
 .fsStandart ul.menuheadline > li > div > a img {
