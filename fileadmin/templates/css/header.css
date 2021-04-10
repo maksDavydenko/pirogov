@@ -74,6 +74,21 @@ body {
 .scrinAlways-logo {
     margin-left: 10px;
 }
+
+.contacts-block, 
+.about-block{
+    padding: 0px 7px;
+}
+.contacts-block__info {
+    max-width: 100%;
+}
+.contacts-block__info header h2 {
+    text-align: center;
+}
+.contact-wrap__item:first-of-type {
+    margin-bottom: 10px;
+    margin-right: 15px;
+}
 }
 
 @media screen and (max-width: 540px) {
@@ -113,6 +128,31 @@ body {
         padding: 9px 12px 9px 0;
     }
 
+    .contact-item__icon-wrap {
+        width: 24px;
+        height: 24px;
+    }
+    .contact-item__icon-wrap .contact-item__icon {
+        width: 15px;
+        height: 15px;
+    }
+    .contact-item__icon {
+        width: 24px;
+        height: 24px;
+        margin-right: 8px;
+    }
+
+    .contact-item__title {
+        font-size: 15px;
+        line-height: 18px;
+    }
+    .contact-item__text {
+        font-size: 12px;
+        line-height: 13px;
+    }
+    .contact-item__text:first-child{
+        margin-bottom: 0;
+    }
 }
 
 @media screen and (max-width: 450px){
