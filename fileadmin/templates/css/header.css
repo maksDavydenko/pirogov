@@ -67,7 +67,7 @@ html {
 .fsStandart .scrinAm {display: none;}
 .fsStandart .scrinBm {  display: -ms-flexbox; display: flex;  display: -webkit-flex;}
 /*.fsStandart ul.menuheadline {height:44px;}/*{align-self:flex-start;}*/
-.fsStandart .fixTopBlock+.cover {margin-top:110px;}
+.fsStandart .fixTopBlock+.cover {margin-top:75px;}
 
 .menuheadline-search {
     order: 2
@@ -98,6 +98,9 @@ html {
 }
 .contact-item__info {
     align-items: center;
+}
+.slick-form {
+    padding: 20px 17px;
 }
 }
 
@@ -187,7 +190,7 @@ html {
     height: 30px;
 }
 #userIcon, #emailIcon {
-    padding: 2px 8px 2px 0;
+    padding: 0 8px 0 0;
 }
 .social-btn-container {
     top: 30px;
