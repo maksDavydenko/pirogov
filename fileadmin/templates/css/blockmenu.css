@@ -237,3 +237,18 @@ color: #007C86;
     color: #007C86;
     margin-bottom: 9px;
 }
+
+.map-frame {
+    width: 689px;
+}
+
+
+@media screen and (max-width: 1249px) {
+    .contacts-block__info {
+       margin-bottom: 19px;
+    }
+
+    .map-frame {
+        width: 100%;
+    }
+}
